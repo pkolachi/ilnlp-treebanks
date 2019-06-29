@@ -1,0 +1,14 @@
+The dependency treebank being released as part of the Hindi parsing shared 
+task-2012 is a part of of an ongoing effort into the creation of the Hindi 
+Treebank (HTB). Since HTB is a work in progress, IIIT-Hyderabad 
+and all the agencies involved in creation of HTB do not warrant the accuracy,
+completeness, currentness or fitness for a particular purpose of the information 
+contained in HTB. This data is being distributed for free for research purpose only. 
+
+The user agrees to not distribute the data or part of them either in original 
+or modified form. Any publication reporting the work done using this data 
+should cite the following reference: 
+
+
+By downloading the data, you agree to abide by the above terms and conditions.
+
