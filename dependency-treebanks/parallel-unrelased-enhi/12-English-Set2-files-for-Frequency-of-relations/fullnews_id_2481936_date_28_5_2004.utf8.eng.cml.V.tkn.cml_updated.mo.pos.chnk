@@ -1,0 +1,938 @@
+<document id="fullnews_id_2481936">
+<head>
+	<title>Chappel admits finger gesture! Admits in an interview with a Kolkota newspaper.</title>
+	<caption></caption>
+	<language>English </language>
+	<author>
+		<firstname></firstname>
+		<middlename></middlename>
+		<lastname></lastname>
+	</author>
+	<creation>
+		<raw_corpus creation_date="" institute_name="">
+		<annotated_corpus creation_date="01/08/2011" institute_name="IIIT-Hyderabad">
+	</creation>
+	<domain_name>News Articles </domain_name>
+	<distributor>LTRC, IIIT Hyderabad</distributor>
+	<source>ISI, Kolkata</source>
+	<publication>
+		<place>Kolkatta</place>
+		<date>28/5/2004</date>
+		<address>Connaught Place, New Delhi</address>
+		<type>Newspaper</type>
+		<publisher>
+		<name>Amar Ujala</name>
+		<url>http://www.amarujala.com</url>
+		</publisher>
+	</publication>
+	<project_description>NSF English Dependency Treebanking Project</place>
+	<availability>
+		<format>CML/SSF</format>
+	</availability>
+	<byte_count>16087</byte_count>
+	<word_count>868</word_count>
+	<edition_number>1.0</edition_number>
+	<encoding_description>
+		<original_encoding>ISO 8859</format>
+		<new_encoding>Unicode UTF8</new_encoding>
+	</encoding_description>
+	<bibliography></bibliography>
+	<sentence_marker>.</sentence_marker>
+	<normalization>No</normalization>
+	<utility_name>cml_tags</utility_name>
+
+</head>
+<Sentence id='1'>
+1	((	NP	<fs name='NP' drel='k1:VG2' hlt='false'>
+1.1	The	DT	<fs name='The' hlt='false'>
+1.2	Indian	NNP	<fs name='Indian' hlt='false'>
+1.3	team	NN	<fs af='team,n,m,s,3,0,,' name='team' hlt='false'>|<fs af='team,v,m,s,3,0,,'>
+1.4	management	NN	<fs af='management,n,m,s,3,0,,' name='management' hlt='false'>
+1.5	's	POS	<fs name='s' hlt='false'>
+1.6	efforts	NNS	<fs af='effort,n,m,p,3,0,,' name='efforts' hlt='false'>
+	))
+2	((	VG	<fs name='VG' drel='nmod:NP' hlt='true'>
+2.1	to	TO	<fs af='to,p,m,s,3,0,,' name='to' hlt='false'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+2.2	sweep	VB	<fs af='sweep,n,m,s,3,0,,' name='sweep' hlt='false'>|<fs af='sweep,v,m,s,3,0,,'>
+	))
+3	((	NP	<fs name='NP2' drel='k2:VG' hlt='false'>
+3.1	Guru	NNP	<fs af='guru,n,m,s,3,0,,' name='Guru' hlt='false'>
+3.2	Greg	NNP	<fs name='Greg' hlt='false'>
+3.3	's	POS	<fs name='s2' hlt='false'>
+3.4	'	SYM	<fs name='' hlt='false'>
+3.5	Finger	NN	<fs af='finger,n,m,s,3,0,,' name='Finger' hlt='false'>|<fs af='finger,v,m,s,3,0,,'>
+3.6	incident	NN	<fs af='incident,n,m,s,3,0,,' name='incident' hlt='false'>
+3.7	'	SYM	<fs af='comma,punc,n,s,3,0,,' name='2' hlt='false'>
+	))
+4	((	PP	<fs name='PP' drel='k7:VG' hlt='false'>
+4.1	under	IN	<fs af='under,p,m,s,3,0,,' name='under' hlt='false'>|<fs af='under,D,m,s,3,0,,'>|<fs af='under,p,m,s,3,0,,'>
+4.2	((	NP	<fs name='NP3' hlt='false'>
+4.2.1	the	DT	<fs af='the,det,m,s,3,0,,' name='the' hlt='false'>
+4.2.2	carpet	NN	<fs af='carpet,n,m,s,3,0,,' name='carpet' hlt='false'>|<fs af='carpet,v,m,s,3,0,,'>
+	))
+	))
+5	((	VG	<fs name='VG2' head='1' hlt='true' stype='declarative' voicetype='active'>
+5.1	came	VBD	<fs af='came,n,m,s,3,0,,' name='came' hlt='false'>|<fs af='come,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+	))
+6	((	VG	<fs name='VG3' drel='k7:VG2' hlt='true'>
+6.1	to	TO	<fs af='to,p,m,s,3,0,,' name='to2' hlt='false'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+6.2	naught	VB	<fs af='naught,n,m,s,3,0,,' name='naught' hlt='false'>|<fs af='naught,adj,m,s,3,0,,'>|<fs af='naught,D,m,s,3,0,,'>
+	))
+7	((	ADVP	<fs name='ADVP' drel='k7t:VG4' hlt='false'>
+7.1	when	WRB	<fs af='when,D,m,s,3,0,,' name='when' hlt='false'>|<fs af='when,P,m,s,3,0,,'>|<fs af='when,p,m,s,3,0,,'>|<fs af='when,Conj,m,s,3,0,,'>
+	))
+8	((	NP	<fs name='NP4' drel='k1:VG4' hlt='false'>
+8.1	Greg	NNP	<fs name='Greg2' hlt='false'>
+8.2	Chappel	NNP	<fs name='Chappel' hlt='false'>
+	))
+9	((	NP	<fs name='NP5' drel='nmod__emph:NP4' hlt='false'>
+9.1	himself	PRP	<fs af='himself,P,m,s,3,0,,' name='himself' hlt='false'>
+	))
+10	((	VG	<fs name='VG4' hlt='true' stype='declarative' voicetype='active' drel='k7t:VG2'>
+10.1	admitted	VBD	<fs af='admit,v,m,s,3,0,,' tense='PAST' v_form='WK' name='admitted' hlt='false'>|<fs af='admit,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+11	((	VG	<fs name='VG5' drel='k2:VG4' hlt='true'>
+11.1	making	VBG	<fs af='making,n,m,s,3,0,,' name='making' hlt='false'>|<fs af='make,v,m,s,3,0,,' aspect='PROG'>
+	))
+12	((	NP	<fs name='NP6' drel='k2:VG5' hlt='false'>
+12.1	the	DT	<fs af='the,det,m,s,3,0,,' name='the2' hlt='false'>
+12.2	finger	NN	<fs af='finger,n,m,s,3,0,,' name='finger' hlt='false'>|<fs af='finger,v,m,s,3,0,,'>
+12.3	gesture	NN	<fs af='gesture,n,m,s,3,0,,' name='gesture' hlt='false'>|<fs af='gesture,v,m,s,3,0,,'>
+12.4	.	SYM	<fs af='.,punc,n,s,3,0,,' name='.' hlt='false'>
+	))
+</Sentence>
+
+<Sentence id='2'>
+1	((	PP	<fs hlt='false' name='PP' drel='k7:VG2'>
+1.1	In	IN	<fs af='in,p,m,s,3,0,,' hlt='false' name='In'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+1.2	((	NP	<fs hlt='false' name='NP'>
+1.2.1	an	DT	<fs af='an,det,m,s,3,0,,' hlt='false' name='an'>
+1.2.2	interview	NN	<fs af='interview,n,m,s,3,0,,' hlt='false' name='interview'>|<fs af='interview,v,m,s,3,0,,'>
+	))
+	))
+2	((	PP	<fs hlt='false' name='PP2' drel='nmod:PP'>
+2.1	with	IN	<fs af='with,p,m,s,3,0,,' hlt='false' name='with'>
+2.2	((	NP	<fs hlt='false' name='NP2'>
+2.2.1	an	DT	<fs af='an,det,m,s,3,0,,' hlt='false' name='an2'>
+2.2.2	english	NN	<fs af='english,n,m,s,3,0,,' hlt='false' name='english'>|<fs af='english,adj,m,s,3,0,,'>
+2.2.3	language	NN	<fs af='language,n,m,s,3,0,,' hlt='false' name='language'>
+2.2.4	newspaper	NN	<fs af='newspaper,n,m,s,3,0,,' hlt='false' name='newspaper'>
+	))
+	))
+3	((	VG	<fs hlt='true' name='VG' stype='declarative' drel='nmod:PP' voicetype='passive'>
+3.1	published	VBN	<fs af='publish,v,m,s,3,0,,' tense='PAST' v_form='WK' hlt='false' name='published'>|<fs af='publish,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+4	((	PP	<fs hlt='false' name='PP3' drel='k7p:VG'>
+4.1	from	IN	<fs af='from,p,m,s,3,0,,' hlt='false' name='from'>|<fs af='from,p,m,s,3,0,,'>
+4.2	((	NP	<fs hlt='false' name='NP3'>
+4.2.1	Kolkota	NNP	<fs hlt='false' name='Kolkota'>
+	))
+4.3	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=','>
+	))
+5	((	NP	<fs hlt='false' name='NP4' drel='k1:VG2'>
+5.1	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+6	((	VG	<fs name='VG2' head='1' hlt='true' stype='declarative' voicetype='active'>
+6.1	admitted	VBD	<fs af='admit,v,m,s,3,0,,' tense='PAST' v_form='WK' hlt='false' name='admitted'>|<fs af='admit,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+6.2	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=',2'>
+	))
+7	((	ADVP	<fs hlt='false' name='ADVP' drel='adv:VG3'>
+7.1	Yes	RB	<fs af='yes,n,m,s,3,0,,' hlt='false' name='Yes'>|<fs af='yes,I,m,s,3,0,,'>
+	))
+8	((	NP	<fs hlt='false' name='NP5' drel='k1:VG3'>
+8.1	I	PRP	<fs af='i,n,m,s,1,0,,' hlt='false' name='I'>|<fs af='I,P,m,s,1,0,,' case='NOM'>
+	))
+9	((	VG	<fs hlt='true' name='VG3' stype='declarative' drel='k2:VG2' voicetype='active'>
+9.1	made	VBD	<fs af='made,adj,m,s,3,0,,' hlt='false' name='made'>|<fs af='make,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='make,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+10	((	NP	<fs hlt='false' name='NP6' drel='k2:VG3'>
+10.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+10.2	gesture	NN	<fs af='gesture,n,m,s,3,0,,' hlt='false' name='gesture'>|<fs af='gesture,v,m,s,3,0,,'>
+10.3	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='3'>
+1	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+1.1	It	PRP	<fs af='it,P,m,s,3,0,,' case='NOM' hlt='false' name='It'>
+	))
+2	((	VG	<fs name='VG' head='1' hlt='true' stype='declarative' voicetype='active'>
+2.1	's	VBZ	<fs hlt='false' name='s>
+	))
+3	((	NP	<fs hlt='false' name='NP2' drel='k1s:VG'>
+3.1	another	DT	<fs af='another,det,m,s,3,0,,' hlt='false' name='another'>
+3.2	matter	NN	<fs af='matter,n,m,s,3,0,,' hlt='false' name='matter'>|<fs af='matt,adj,m,s,3,0,,' degree='COMP'>|<fs af='matter,v,m,s,3,0,,'>
+	))
+4	((	CCP	<fs hlt='false' name='CCP' drel='k2:VG'>
+4.1	that	IN	<fs af='that,Comp,m,s,3,0,,' hlt='false' name='that'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+5	((	NP	<fs hlt='false' name='NP3' drel='k1:VG2'>
+5.1	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+6	((	VG	<fs hlt='true' name='VG2' stype='declarative' voicetype='active' drel='ccof:CCP'>
+6.1	refused	VBD	<fs af='refuse,v,m,s,3,0,,' tense='PAST' v_form='WK' hlt='false' name='refused'>|<fs af='refuse,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+7	((	VG	<fs name='VG3' drel='ccof:CCP2'>
+7.1	to	TO	<fs af='comment,v,m,s,3,0,,' name='to'>
+7.2	comment	VB	<fs af='comment,n,m,s,3,0,,' hlt='false' name='comment'>|<fs af='comment,v,m,s,3,0,,'>
+	))
+8	((	PP	<fs hlt='false' name='PP' drel='k7t:VG3'>
+8.1	on	IN	<fs af='on,p,m,s,3,0,,' hlt='false' name='on'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+8.2	((	NP	<fs hlt='false' name='NP4'>
+8.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+8.2.2	eve	NN	<fs af='eve,n,m,s,3,0,,' hlt='false' name='eve'>
+	))
+	))
+9	((	PP	<fs hlt='false' name='PP2' drel='r6:PP'>
+9.1	of	IN	<fs af='of,p,m,s,3,0,,' hlt='false' name='of'>
+9.2	((	NP	<fs hlt='false' name='NP5'>
+9.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the2'>
+9.2.2	one	CD	<fs af='one,n,m,s,3,0,,' hlt='false' name='one'>|<fs af='one,det,m,s,3,0,,'>|<fs af='one,P,m,s,3,0,,' case='NOM'>
+9.2.3	day	NN	<fs af='day,n,m,s,3,0,,' hlt='false' name='day'>
+9.2.4	match	NN	<fs af='match,n,m,s,3,0,,' hlt='false' name='match'>|<fs af='match,v,m,s,3,0,,'>
+	))
+	))
+10	((	VG	<fs hlt='true' name='VG4' drel='nmod:NP5'>
+10.1	to	TO	<fs af='to,v,m,s,3,0,,' name='to2'>
+10.2	be	VB	<fs af='be,v,m,s,3,0,,' hlt='false' name='be'>
+10.3	held	VBN	<fs af='hold,v,m,s,3,0,,' tense='PAST' v_form='STR' hlt='false' name='held'>|<fs af='hold,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+11	((	PP	<fs hlt='false' name='PP3' drel='k7p:VG4'>
+11.1	in	IN	<fs af='in,p,m,s,3,0,,' hlt='false' name='in'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+11.2	((	NP	<fs hlt='false' name='NP6'>
+11.2.1	Mumbai	NNP	<fs hlt='false' name='Mumbai'>
+	))
+11.3	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=','>
+	))
+12	((	CCP	<fs hlt='false' name='CCP2' drel='k2:VG2'>
+12.1	while	IN	<fs af='while,Conj,m,s,3,0,,' hlt='false' name='while'>|<fs af='while,n,m,s,3,0,,'>
+	))
+13	((	NP	<fs hlt='false' name='NP7' drel='k1:VG5'>
+13.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the3'>
+13.2	management	NN	<fs af='management,n,m,s,3,0,,' hlt='false' name='management'>
+	))
+14	((	VG	<fs hlt='true' name='VG5' stype='declarative' drel='ccof:CCP2'>
+14.1	tried	VBD	<fs af='try,v,m,s,3,0,,' tense='PAST' v_form='WK' hlt='false' name='tried'>|<fs af='try,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+15	((	VG	<fs hlt='true' name='VG6' drel='k2:VG5'>
+15.1	to	TO	<fs af='to,p,m,s,3,0,,' hlt='false' name='to3'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+15.2	dodge	VB	<fs af='dodge,n,m,s,3,0,,' hlt='false' name='dodge'>|<fs af='dodge,v,m,s,3,0,,'>
+	))
+16	((	NP	<fs hlt='false' name='NP8' drel='k2:VG6'>
+16.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the4'>
+16.2	issue	NN	<fs af='issue,n,m,s,3,0,,' hlt='false' name='issue'>|<fs af='issue,v,m,s,3,0,,'>
+	))
+17	((	VG	<fs name='VG7' drel='vmod:VG6'>
+17.1	by	IN	<fs af='by,p,m,s,3,0,,' hlt='false' name='by'>|<fs af='by,n,m,s,3,0,,'>|<fs af='by,D,m,s,3,0,,'>|<fs af='by,p,m,s,3,0,,'>
+17.2	saying	VBG	<fs af='saying,n,m,s,3,0,,' hlt='false' name='saying'>|<fs af='say,v,m,s,3,0,,' aspect='PROG'>
+	))
+18	((	CCP	<fs hlt='false' name='CCP3' drel='k2:VG7'>
+18.1	that	IN	<fs af='that,Comp,m,s,3,0,,' hlt='false' name='that2'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+19	((	NP	<fs hlt='false' name='NP9' drel='k1:VG8'>
+19.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the5'>
+19.2	incident	NN	<fs af='incident,n,m,s,3,0,,' hlt='false' name='incident'>
+	))
+20	((	ADVP	<fs hlt='false' name='ADVP' drel='vmod:VG8'>
+20.1	never	RB	<fs af='never,D,m,s,3,0,,' hlt='false' name='never'>
+	))
+21	((	VG	<fs hlt='true' name='VG8' stype='declarative' drel='ccof:CCP3'>
+21.1	happened	VBD	<fs af='happen,v,m,s,3,0,,' tense='PAST' v_form='WK' hlt='false' name='happened'>|<fs af='happen,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+21.2	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='4'>
+1	((	ADJP	<fs hlt='false' name='ADJP' drel='sent-adv:VG'>
+1.1	Infact	JJ	<fs hlt='false' name='Infact'>
+1.2	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=','>
+	))
+2	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+2.1	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+3	((	VG	<fs name='VG' head='3' hlt='true' stype='declarative'>
+3.1	had	VBD	<fs af='have,v,m,s,3,0,,' tense='PAST' v_form='STR' hlt='false' name='had'>|<fs af='have,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+3.2	never	RB	<fs af='never,D,m,s,3,0,,' hlt='false' name='never'>
+3.3	imagined	VBN	<fs af='imagine,v,m,s,3,0,,' tense='PAST' v_form='WK' hlt='false' name='imagined'>|<fs af='imagine,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+4	((	CCP	<fs hlt='false' name='CCP' drel='k2:VG'>
+4.1	that	IN	<fs af='that,Comp,m,s,3,0,,' hlt='false' name='that'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+5	((	NP	<fs hlt='false' name='NP2' drel='k1:VG2'>
+5.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+5.2	finger	NN	<fs af='finger,n,m,s,3,0,,' hlt='false' name='finger'>|<fs af='finger,v,m,s,3,0,,'>
+5.3	gesture	NN	<fs af='gesture,n,m,s,3,0,,' hlt='false' name='gesture'>|<fs af='gesture,v,m,s,3,0,,'>
+	))
+6	((	VG	<fs hlt='true' name='VG2' stype='declarative' drel='ccof:CCP'>
+6.1	would	MD	<fs af='would,v,m,s,3,0,,' tense='PRES' hlt='false' name='would'>
+6.2	turn	VB	<fs af='turn,n,m,s,3,0,,' hlt='false' name='turn'>|<fs af='turn,v,m,s,3,0,,'>
+	))
+7	((	PP	<fs hlt='false' name='PP' drel='k1s:VG2'>
+7.1	into	IN	<fs af='into,p,m,s,3,0,,' hlt='false' name='into'>
+7.2	((	NP	<fs hlt='false' name='NP3'>
+7.2.1	such	PDT	<fs af='such,det,m,s,3,0,,' hlt='false' name='such'>
+7.2.2	a	DT	<fs af='a,n,m,s,3,0,,' hlt='false' name='a'>|<fs af='a,det,m,s,3,0,,'>
+7.2.3	big	JJ	<fs af='big,adj,m,s,3,0,,' hlt='false' name='big'>|<fs af='big,D,m,s,3,0,,'>
+7.2.4	issue	NN	<fs af='issue,n,m,s,3,0,,' hlt='false' name='issue'>|<fs af='issue,v,m,s,3,0,,'>
+	))
+7.3	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='5'>
+1	((	NP	<fs hlt='false' name='NP' drel='k2:VG'>
+1.1	He	PRP	<fs af='he,P,m,s,3,0,,' case='NOM' hlt='false' name='He'>
+	))
+2	((	VG	<fs name='VG' head='2' hlt='true' stype='declarative'>
+2.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR' hlt='false' name='was'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+2.2	caught	VBN	<fs af='catch,v,m,s,3,0,,' tense='PAST' v_form='STR' hlt='false' name='caught'>|<fs af='catch,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	PP	<fs hlt='false' name='PP' drel='ccof:CCP'>
+3.1	between	IN	<fs af='between,p,m,s,3,0,,' hlt='false' name='between'>|<fs af='between,D,m,s,3,0,,'>
+3.2	((	NP	<fs hlt='false' name='NP2'>
+3.2.1	a	DT	<fs af='a,n,m,s,3,0,,' hlt='false' name='a'>|<fs af='a,det,m,s,3,0,,'>
+3.2.2	rock	NN	<fs af='rock,n,m,s,3,0,,' hlt='false' name='rock'>|<fs af='rock,v,m,s,3,0,,'>
+	))
+	))
+4	((	CCP	<fs hlt='false' name='CCP' drel='k7p:VG'>
+4.1	and	CC	<fs af='and,Conj,m,s,3,0,,' hlt='false' name='and'>
+	))
+5	((	NP	<fs hlt='false' name='NP3' drel='ccof:CCP'>
+5.1	a	DT	<fs af='a,n,m,s,3,0,,' hlt='false' name='a2'>|<fs af='a,det,m,s,3,0,,'>
+5.2	hard	JJ	<fs af='hard,n,m,s,3,0,,' hlt='false' name='hard'>|<fs af='hard,adj,m,s,3,0,,'>|<fs af='hard,D,m,s,3,0,,'>
+5.3	place	NN	<fs af='place,n,m,s,3,0,,' hlt='false' name='place'>|<fs af='place,v,m,p,3,0,,'>
+5.4	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='6'>
+1	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+1.1	The	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='The'>
+1.2	Englsih	JJ	<fs hlt='false' name='Englsih'>
+1.3	daily	NN	<fs af='daily,n,m,s,3,0,,' hlt='false' name='daily'>|<fs af='daily,adj,m,s,3,0,,'>|<fs af='daily,D,m,s,3,0,,'>
+	))
+2	((	PP	<fs hlt='false' name='PP' drel='nmod:NP'>
+2.1	from	IN	<fs af='from,p,m,s,3,0,,' hlt='false' name='from'>|<fs af='from,p,m,s,3,0,,'>
+2.2	((	NP	<fs hlt='false' name='NP2'>
+2.2.1	Kolkata	NNP	<fs hlt='false' name='Kolkata'>
+	))
+	))
+3	((	PP	<fs hlt='false' name='PP2' drel='vmod:VG'>
+3.1	after	IN	<fs af='after,Conj,m,s,3,0,,' hlt='false' name='after'>|<fs af='after,p,m,s,3,0,,'>|<fs af='aft,adj,m,s,3,0,,' degree='COMP'>|<fs af='after,adj,m,s,3,0,,'>|<fs af='after,D,m,s,3,0,,'>
+3.2	((	NP	<fs hlt='false' name='NP3'>
+3.2.1	all	DT	<fs af='all,n,m,s,3,0,,' hlt='false' name='all'>|<fs af='all,adj,m,s,3,0,,'>|<fs af='all,D,m,s,3,0,,'>|<fs af='all,det,m,s,3,0,,'>
+	))
+3.3	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=','>
+	))
+4	((	VG	<fs name='VG' head='1' hlt='true' stype='declarative'>
+4.1	made	VBD	<fs af='made,adj,m,s,3,0,,' hlt='false' name='made'>|<fs af='make,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='make,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+5	((	NP	<fs hlt='false' name='NP4' drel='k1:VG2'>
+5.1	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+6	((	VG	<fs hlt='true' name='VG2' stype='declarative'>
+6.1	admit	VBP	<fs af='admit,v,m,s,3,0,,' hlt='false' name='admit'>
+	))
+7	((	NP	<fs hlt='false' name='NP5' drel='k2:VG2'>
+7.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+7.2	truth	NN	<fs af='truth,n,m,s,3,0,,' hlt='false' name='truth'>
+7.3	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='7'>
+1	((	PP	<fs name='PP' drel='k7:VG'>
+1.1	According	IN	<fs af='according,adj,m,s,3,0,,' hlt='false' name='According'>|<fs af='accord,v,m,s,3,0,,' aspect='PROG'>
+1.2	to	TO	<fs af='to,p,m,s,3,0,,' hlt='false' name='to'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+1.3	it	PRP	<fs af='it,P,m,s,3,0,,' case='NOM' hlt='false' name='it'>
+1.4	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=','>
+	))
+2	((	VG	<fs name='VG' drel='vmod:VG3'>
+2.1	on	IN	<fs af='on,p,m,s,3,0,,' hlt='false' name='on'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+2.2	being	VBG	<fs af='being,n,m,s,3,0,,' hlt='false' name='being'>|<fs af='be,v,m,s,3,0,,' aspect='PROG'>
+2.3	asked	VBN	<fs af='ask,v,m,s,3,0,,' tense='PAST' v_form='WK' hlt='false' name='asked'>|<fs af='ask,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+3	((	PP	<fs hlt='false' name='PP2' drel='k2:VG'>
+3.1	about	IN	<fs af='about,p,m,s,3,0,,' hlt='false' name='about'>|<fs af='about,adj,m,s,3,0,,'>|<fs af='about,D,m,s,3,0,,'>|<fs af='about,p,m,s,3,0,,'>
+3.2	((	NP	<fs hlt='false' name='NP'>
+3.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+3.2.2	indecednt	JJ	<fs hlt='false' name='indecednt'>
+3.2.3	gesture	NN	<fs af='gesture,n,m,s,3,0,,' hlt='false' name='gesture'>|<fs af='gesture,v,m,s,3,0,,'>
+	))
+	))
+4	((	VG	<fs hlt='true' name='VG2' stype='declarative' drel='nmod:NP'>
+4.1	made	VBN	<fs af='made,adj,m,s,3,0,,' hlt='false' name='made'>|<fs af='make,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='make,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+5	((	PP	<fs hlt='false' name='PP3' drel='rd:VG2'>
+5.1	towards	IN	<fs af='towards,p,m,s,3,0,,' hlt='false' name='towards'>
+5.2	((	NP	<fs hlt='false' name='NP2'>
+5.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the2'>
+5.2.2	spectators	NNS	<fs af='spectator,n,m,p,3,0,,' hlt='false' name='spectators'>
+	))
+	))
+6	((	NP	<fs hlt='false' name='NP3' drel='k1:VG3'>
+6.1	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+7	((	VG	<fs hlt='true' name='VG3' stype='declarative'>
+7.1	said	VBD	<fs af='sayyid,n,m,p,3,0,,' hlt='false' name='said'>|<fs af='said,adj,m,s,3,0,,'>|<fs af='say,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='say,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+7.2	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=',2'>
+	))
+8	((	NP	<fs hlt='false' name='NP4' drel='k1:VG4'>
+8.1	I	PRP	<fs af='i,n,m,s,1,0,,' hlt='false' name='I'>|<fs af='I,P,m,s,1,0,,' case='NOM'>
+	))
+9	((	VG	<fs stype='declarative' voicetype='passive' name='VG4' drel='k2:VG3'>
+9.1	do	VBP	<fs af='do,n,m,s,3,0,,' hlt='false' name='do'>|<fs af='do,v,m,s,3,0,,'>
+9.2	n't	RB	<fs hlt='false' name='n't'>
+9.3	need	VB	<fs af='need,n,m,s,3,0,,' hlt='false' name='need'>|<fs af='need,v,m,s,3,0,,'>
+	))
+10	((	VG	<fs hlt='true' name='VG5' drel='k2:VG4'>
+10.1	to	TO	<fs af='to,p,m,s,3,0,,' hlt='false' name='to2'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+10.2	explain	VB	<fs af='explain,v,m,p,3,0,,' hlt='false' name='explain'>
+	))
+11	((	NP	<fs hlt='false' name='NP5' drel='k2:VG5'>
+11.1	this	DT	<fs af='this,n,m,s,3,0,,' hlt='false' name='this'>|<fs af='this,D,m,s,3,0,,'>|<fs af='this,det,m,s,3,0,,'>
+11.2	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='8'>
+1	((	CCP	<fs hlt='false' name='CCP'>
+1.1	But	CC	<fs af='but,Conj,m,s,3,0,,' hlt='false' name='But'>|<fs af='but,p,m,s,3,0,,'>|<fs af='but,n,m,s,3,0,,'>|<fs af='but,D,m,s,3,0,,'>
+	))
+2	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+2.1	it	PRP	<fs af='it,P,m,s,3,0,,' case='NOM' hlt='false' name='it'>
+	))
+3	((	VG	<fs name='VG' head='1' hlt='true' stype='declarative' drel='ccof:CCP'>
+3.1	's	VBZ	<fs hlt='false' name='s>
+	))
+4	((	ADJP	<fs hlt='false' name='ADJP' drel='k1s:VG'>
+4.1	true	JJ	<fs af='true,n,m,s,3,0,,' hlt='false' name='true'>|<fs af='true,adj,m,s,3,0,,'>|<fs af='true,D,m,s,3,0,,'>|<fs af='true,v,m,s,3,0,,'>
+	))
+5	((	CCP	<fs hlt='false' name='CCP2' drel='k2:VG'>
+5.1	that	IN	<fs af='that,Comp,m,s,3,0,,' hlt='false' name='that'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+6	((	NP	<fs hlt='false' name='NP2' drel='k1:VG2'>
+6.1	I	PRP	<fs af='i,n,m,s,1,0,,' hlt='false' name='I'>|<fs af='I,P,m,s,1,0,,' case='NOM'>
+	))
+7	((	VG	<fs hlt='true' name='VG2' stype='declarative' drel='ccof:CCP2'>
+7.1	made	VBD	<fs af='made,adj,m,s,3,0,,' hlt='false' name='made'>|<fs af='make,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='make,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+8	((	NP	<fs hlt='false' name='NP3' drel='k2:VG2'>
+8.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+8.2	finger	NN	<fs af='finger,n,m,s,3,0,,' hlt='false' name='finger'>|<fs af='finger,v,m,s,3,0,,'>
+8.3	gesture	NN	<fs af='gesture,n,m,s,3,0,,' hlt='false' name='gesture'>|<fs af='gesture,v,m,s,3,0,,'>
+8.4	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='9'>
+1	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+1.1	He	PRP	<fs af='he,P,m,s,3,0,,' case='NOM' hlt='false' name='He'>
+	))
+2	((	VG	<fs stype='declarative' voicetype='active' name='VG'>
+2.1	also	RB	<fs af='also,D,m,s,3,0,,' hlt='false' name='also'>
+2.2	said	VBD	<fs af='sayyid,n,m,p,3,0,,' hlt='false' name='said'>|<fs af='said,adj,m,s,3,0,,'>|<fs af='say,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='say,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	CCP	<fs hlt='false' name='CCP' drel='k2:VG'>
+3.1	that	IN	<fs af='that,Comp,m,s,3,0,,' hlt='false' name='that'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+4	((	NP	<fs hlt='false' name='NP2' drel='k1:VG3'>
+4.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+4.2	pictures	NNS	<fs af='picture,n,m,p,3,0,,' hlt='false' name='pictures'>|<fs af='picture,v,m,s,3,0,,' tense='PRES'>
+	))
+5	((	VG	<fs hlt='true' name='VG2' stype='declarative' drel='nmod__k1inv:NP2'>
+5.1	shown	VBN	<fs af='show,v,m,s,3,0,,' tense='PPART' v_form='STR' hlt='false' name='shown'>
+	))
+6	((	PP	<fs hlt='false' name='PP' drel='k7:VG2'>
+6.1	on	IN	<fs af='on,p,m,s,3,0,,' hlt='false' name='on'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+6.2	((	NP	<fs hlt='false' name='NP3'>
+6.2.1	various	JJ	<fs af='various,adj,m,s,3,0,,' hlt='false' name='various'>|<fs af='various,det,m,s,3,0,,'>
+6.2.2	news	NN	<fs af='new,n,m,p,3,0,,' hlt='false' name='news'>|<fs af='news,n,m,s,3,0,,'>
+6.2.3	channels	NNS	<fs af='channel,n,m,p,3,0,,' hlt='false' name='channels'>|<fs af='channel,v,m,s,3,0,,' tense='PRES'>
+	))
+	))
+7	((	VG	<fs hlt='true' name='VG3' stype='declarative' drel='ccof:CCP'>
+7.1	are	VBZ	<fs af='be,v,m,p,3,0,,' tense='PRES' hlt='false' name='are'>
+	))
+8	((	ADJP	<fs hlt='false' name='ADJP' drel='k1s:VG3'>
+8.1	authentic	JJ	<fs af='authentic,adj,m,s,3,0,,' hlt='false' name='authentic'>
+8.2	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='10'>
+1	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+1.1	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+2	((	VG	<fs stype='declarative' voicetype='active' name='VG'>
+2.1	also	RB	<fs af='also,D,m,s,3,0,,' hlt='false' name='also'>
+2.2	expressed	VBD	<fs af='express,v,m,s,3,0,,' tense='PAST' v_form='WK' hlt='false' name='expressed'>|<fs af='express,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+3	((	NP	<fs hlt='false' name='NP2' drel='k2:VG'>
+3.1	sadness	NNS	<fs af='sadness,n,m,s,3,0,,' hlt='false' name='sadness'>
+	))
+4	((	PP	<fs hlt='false' name='PP' drel='k7:VG'>
+4.1	at	IN	<fs af='at,p,m,s,3,0,,' hlt='false' name='at'>|<fs af='at,n,m,p,3,0,,'>|<fs af='at,n,m,s,3,0,,'>|<fs af='at,p,m,s,3,0,,'>
+4.2	((	NP	<fs hlt='false' name='NP3'>
+4.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+4.2.2	behavior	NN	<fs af='behaviour,n,m,s,3,0,,' hlt='false' name='behavior'>
+	))
+	))
+5	((	PP	<fs hlt='false' name='PP2' drel='r6:PP'>
+5.1	of	IN	<fs af='of,p,m,s,3,0,,' hlt='false' name='of'>
+5.2	((	NP	<fs hlt='false' name='NP4'>
+5.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the2'>
+5.2.2	Kolkata	NNP	<fs hlt='false' name='Kolkata'>
+5.2.3	crowd	NN	<fs af='crowd,n,m,s,3,0,,' hlt='false' name='crowd'>|<fs af='crowd,v,m,s,3,0,,'>
+	))
+5.3	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='11'>
+1	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+1.1	He	PRP	<fs af='he,P,m,s,3,0,,' case='NOM' hlt='false' name='He'>
+	))
+2	((	VG	<fs name='VG' head='1' hlt='true' stype='declarative'>
+2.1	said	VBD	<fs af='sayyid,n,m,p,3,0,,' hlt='false' name='said'>|<fs af='said,adj,m,s,3,0,,'>|<fs af='say,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='say,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	PP	<fs hlt='false' name='PP' drel='k7t:VG'>
+3.1	on	IN	<fs af='on,p,m,s,3,0,,' hlt='false' name='on'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+3.2	((	NP	<fs hlt='false' name='NP2'>
+3.2.1	that	DT	<fs af='that,Comp,m,s,3,0,,' hlt='false' name='that'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+3.2.2	day	NN	<fs af='day,n,m,s,3,0,,' hlt='false' name='day'>
+3.2.3	too	RB	<fs af='too,D,m,s,3,0,,' hlt='false' name='too'>
+	))
+3.3	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=','>
+	))
+4	((	PP	<fs hlt='false' name='PP2' drel='k7t:VG'>
+4.1	during	IN	<fs af='during,p,m,s,3,0,,' hlt='false' name='during'>
+4.2	((	NP	<fs hlt='false' name='NP3'>
+4.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+4.2.2	match	NN	<fs af='match,n,m,s,3,0,,' hlt='false' name='match'>|<fs af='match,v,m,s,3,0,,'>
+	))
+	))
+5	((	PP	<fs hlt='false' name='PP3' drel='nmod:PP2'>
+5.1	in	IN	<fs af='in,p,m,s,3,0,,' hlt='false' name='in'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+5.2	((	NP	<fs hlt='false' name='NP4'>
+5.2.1	Kolkata	NNP	<fs hlt='false' name='Kolkata'>
+	))
+	))
+6	((	NP	<fs hlt='false' name='NP5' drel='k1:VG2'>
+6.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the2'>
+6.2	behavior	NN	<fs af='behaviour,n,m,s,3,0,,' hlt='false' name='behavior'>
+	))
+7	((	PP	<fs hlt='false' name='PP4' drel='r6:NP5'>
+7.1	of	IN	<fs af='of,p,m,s,3,0,,' hlt='false' name='of'>
+7.2	((	NP	<fs hlt='false' name='NP6'>
+7.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the3'>
+7.2.2	cricket	NN	<fs af='cricket,n,m,s,3,0,,' hlt='false' name='cricket'>
+7.2.3	lovers	NNS	<fs af='lover,n,m,p,3,0,,' hlt='false' name='lovers'>
+	))
+	))
+8	((	VG	<fs hlt='true' name='VG2' stype='declarative' voicetype='active' drel='k2:VG'>
+8.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR' hlt='false' name='was'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+	))
+9	((	ADJP	<fs hlt='false' name='ADJP' drel='ccof:CCP'>
+9.1	strange	JJ	<fs af='strange,adj,m,s,3,0,,' hlt='false' name='strange'>|<fs af='strange,D,m,s,3,0,,'>
+	))
+10	((	CCP	<fs hlt='false' name='CCP' drel='k1s:VG2'>
+10.1	and	CC	<fs af='and,Conj,m,s,3,0,,' hlt='false' name='and'>
+	))
+11	((	ADJP	<fs hlt='false' name='ADJP2' drel='ccof:CCP'>
+11.1	counter	JJ	<fs af='counter,adj,m,s,3,0,,' name='counter'>
+11.2	productive	JJ	<fs af='productive,adj,m,s,3,0,,' hlt='false' name='productive'>
+11.3	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='12'>
+1	((	NP	<fs hlt='false' name='NP' drel='k2:VG'>
+1.1	All	DT	<fs af='all,n,m,s,3,0,,' hlt='false' name='All'>|<fs af='all,adj,m,s,3,0,,'>|<fs af='all,D,m,s,3,0,,'>|<fs af='all,det,m,s,3,0,,'>
+1.2	efforts	NNS	<fs af='effort,n,m,p,3,0,,' hlt='false' name='efforts'>
+	))
+2	((	VG	<fs name='VG' head='2' hlt='true' stype='declarative' voicetype='passive'>
+2.1	were	VBD	<fs af='be,v,m,p,3,0,,' hlt='false' name='were'>
+2.2	made	VBN	<fs af='made,adj,m,s,3,0,,' hlt='false' name='made'>|<fs af='make,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='make,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	VG	<fs hlt='true' name='VG2' drel='k2:VG'>
+3.1	to	TO	<fs af='to,p,m,s,3,0,,' hlt='false' name='to'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+3.2	instigate	VB	<fs af='instigate,v,m,s,3,0,,' hlt='false' name='instigate'>
+	))
+4	((	NP	<fs hlt='false' name='NP2' drel='k4:VG2'>
+4.1	me	PRP	<fs af='I,P,m,s,1,0,,' case='ACC' hlt='false' name='me'>
+4.2	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='13'>
+1	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+1.1	Pople	NN	<fs hlt='false' name='Pople'>
+	))
+2	((	VG	<fs name='VG' head='2' hlt='true' stype='declarative' voicetype='active'>
+2.1	were	VBD	<fs af='be,v,m,p,3,0,,' hlt='false' name='were'>
+2.2	shouting	VBG	<fs af='shout,v,m,s,3,0,,' aspect='PROG' hlt='false' name='shouting'>
+	))
+3	((	PRT	<fs hlt='false' name='PRT' drel='pof:VG'>
+3.1	out	RP	<fs af='out,p,m,s,3,0,,' hlt='false' name='out'>|<fs af='out,n,m,s,3,0,,'>|<fs af='out,adj,m,s,3,0,,'>|<fs af='out,D,m,s,3,0,,'>|<fs af='out,v,m,s,3,0,,'>|<fs af='out,p,m,s,3,0,,'>
+	))
+4	((	NP	<fs hlt='false' name='NP2' drel='k2:VG'>
+4.1	my	PRP$	<fs af='I,P,m,s,3,0,,' case='GEN' hlt='false' name='my'>|<fs af='I,det,m,s,3,0,,' case='GEN'>
+4.2	name	NN	<fs af='name,n,m,s,3,0,,' hlt='false' name='name'>|<fs af='name,v,m,s,3,0,,'>
+4.3	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='14'>
+1	((	PP	<fs hlt='false' name='PP' drel='k7t:VG2'>
+1.1	Even	RB	<fs af='even,n,m,s,3,0,,' hlt='false' name='Even'>|<fs af='even,adj,m,s,3,0,,'>|<fs af='even,D,m,s,3,0,,'>|<fs af='even,v,m,s,3,0,,'>
+1.2	after	IN	<fs af='after,Conj,m,s,3,0,,' hlt='false' name='after'>|<fs af='after,p,m,s,3,0,,'>|<fs af='aft,adj,m,s,3,0,,' degree='COMP'>|<fs af='after,adj,m,s,3,0,,'>|<fs af='after,D,m,s,3,0,,'>
+1.3	((	NP	<fs hlt='false' name='NP'>
+1.3.1	this	DT	<fs af='this,n,m,s,3,0,,' hlt='false' name='this'>|<fs af='this,D,m,s,3,0,,'>|<fs af='this,det,m,s,3,0,,'>
+1.3.2	disclosure	NN	<fs af='disclosure,n,m,s,3,0,,' hlt='false' name='disclosure'>
+	))
+1.4	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=','>
+	))
+2	((	PP	<fs hlt='false' name='PP2' drel='nmod:NP'>
+2.1	at	IN	<fs af='at,p,m,s,3,0,,' hlt='false' name='at'>|<fs af='at,n,m,p,3,0,,'>|<fs af='at,n,m,s,3,0,,'>|<fs af='at,p,m,s,3,0,,'>
+2.2	((	NP	<fs hlt='false' name='NP2'>
+2.2.1	a	DT	<fs af='a,n,m,s,3,0,,' hlt='false' name='a'>|<fs af='a,det,m,s,3,0,,'>
+2.2.2	press	NN	<fs af='press,n,m,s,3,0,,' hlt='false' name='press'>|<fs af='press,v,m,s,3,0,,'>
+2.2.3	conference	NN	<fs af='conference,n,m,s,3,0,,' hlt='false' name='conference'>
+	))
+	))
+3	((	PP	<fs hlt='false' name='PP3' drel='nmod:NP2'>
+3.1	on	IN	<fs af='on,p,m,s,3,0,,' hlt='false' name='on'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+3.2	((	NP	<fs hlt='false' name='NP3'>
+3.2.1	Sunday	NNP	<fs af='sunday,n,m,s,3,0,,' hlt='false' name='Sunday'>
+3.2.2	evening	NN	<fs af='evening,n,m,s,3,0,,' hlt='false' name='evening'>|<fs af='even,v,m,s,3,0,,' aspect='PROG'>
+	))
+	))
+4	((	PP	<fs name='PP4' drel='nmod:PP2'>
+4.1	with	IN	<fs af='with,p,m,s,3,0,,' hlt='false' name='with'>
+4.2	((	NP	<fs name='NP4'>
+4.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+4.2.2	Indian	JJ	<fs hlt='false' name='Indian'>
+4.2.3	team	NN	<fs af='team,n,m,s,3,0,,' hlt='false' name='team'>|<fs af='team,v,m,s,3,0,,'>
+4.2.4	Captain	NNP	<fs af='captain,n,m,s,3,0,,' hlt='false' name='Captain'>|<fs af='captain,v,m,s,3,0,,'>
+4.2.5	Rahul	NNP	<fs hlt='false' name='Rahul'>
+4.2.6	Dravid	NNP	<fs hlt='false' name='Dravid'>
+4.2.7	and	CC	<fs af='and,Conj,m,s,3,0,,' hlt='false' name='and'>
+4.2.8	media	NN	<fs af='medium,n,m,p,3,0,,' hlt='false' name='media'>
+4.2.9	manager	NN	<fs af='manager,n,m,s,3,0,,' hlt='false' name='manager'>
+4.2.10	Baladitya	NNP	<fs hlt='false' name='Baladitya'>
+4.2.11	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=',2'>
+	))
+	))
+5	((	NP	<fs hlt='false' name='NP5' drel='k1:VG2'>
+5.1	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+6	((	VG	<fs hlt='true' name='VG' stype='declarative' drel='nmod:NP5'>
+6.1	known	VBN	<fs af='known,n,m,s,3,0,,' hlt='false' name='known'>|<fs af='known,adj,m,s,3,0,,'>|<fs af='know,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+7	((	PP	<fs hlt='false' name='PP5' drel='k2:VG'>
+7.1	for	IN	<fs af='for,p,m,s,3,0,,' hlt='false' name='for'>|<fs af='for,Comp,m,s,3,0,,'>
+7.2	((	NP	<fs hlt='false' name='NP6'>
+7.2.1	his	PRP$	<fs af='he,P,m,s,3,0,,' case='GEN' hlt='false' name='his'>|<fs af='he,det,m,s,3,0,,' case='GEN'>
+7.2.2	simplicty	NN	<fs hlt='false' name='simplicty'>
+7.2.3	and	CC	<fs af='and,Conj,m,s,3,0,,' hlt='false' name='and2'>
+7.2.4	strictness	NNS	<fs af='strictness,n,m,s,3,0,,' hlt='false' name='strictness'>
+	))
+7.3	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=',3'>
+	))
+8	((	VG	<fs name='VG2' head='1' hlt='true' stype='declarative'>
+8.1	went	VBD	<fs af='go,v,m,s,3,0,,' tense='PAST' v_form='STR' hlt='false' name='went'>
+	))
+9	((	ADJP	<fs hlt='false' name='ADJP' drel='k1s:VG2'>
+9.1	quiet	JJ	<fs af='quiet,n,m,s,3,0,,' hlt='false' name='quiet'>|<fs af='quiet,adj,m,s,3,0,,'>|<fs af='quiet,v,m,s,3,0,,'>
+	))
+10	((	PP	<fs hlt='false' name='PP6' drel='k7:VG2'>
+10.1	on	IN	<fs af='on,p,m,s,3,0,,' hlt='false' name='on2'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+10.2	((	NP	<fs hlt='false' name='NP7'>
+10.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the2'>
+10.2.2	question	NN	<fs af='question,n,m,s,3,0,,' hlt='false' name='question'>|<fs af='question,v,m,s,3,0,,'>
+	))
+	))
+11	((	PP	<fs hlt='false' name='PP7' drel='r6:PP6'>
+11.1	of	IN	<fs af='of,p,m,s,3,0,,' hlt='false' name='of'>
+11.2	((	NP	<fs hlt='false' name='NP8'>
+11.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the3'>
+11.2.2	finger	NN	<fs af='finger,n,m,s,3,0,,' hlt='false' name='finger'>|<fs af='finger,v,m,s,3,0,,'>
+11.2.3	incident	NN	<fs af='incident,n,m,s,3,0,,' hlt='false' name='incident'>
+	))
+11.3	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='15'>
+1	((	ADVP	<fs hlt='false' name='ADVP' drel='k7t:VG'>
+1.1	Later	RB	<fs af='late,adj,m,s,3,0,,' degree='COMP' hlt='false' name='Later'>|<fs af='later,adj,m,s,3,0,,'>|<fs af='later,D,m,s,3,0,,'>
+1.2	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=','>
+	))
+2	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+2.1	Baladitya	NNP	<fs hlt='false' name='Baladitya'>
+	))
+3	((	VG	<fs name='VG' head='1' hlt='true' stype='declarative' voicetype='active'>
+3.1	tried	VBD	<fs af='try,v,m,s,3,0,,' tense='PAST' v_form='WK' hlt='false' name='tried'>|<fs af='try,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+4	((	VG	<fs hlt='true' name='VG2' drel='k2:VG'>
+4.1	to	TO	<fs af='to,p,m,s,3,0,,' hlt='false' name='to'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+4.2	dodge	VB	<fs af='dodge,n,m,s,3,0,,' hlt='false' name='dodge'>|<fs af='dodge,v,m,s,3,0,,'>
+	))
+5	((	NP	<fs hlt='false' name='NP2' drel='k2:VG2'>
+5.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+5.2	question	NN	<fs af='question,n,m,s,3,0,,' hlt='false' name='question'>|<fs af='question,v,m,s,3,0,,'>
+	))
+6	((	PP	<fs hlt='false' name='PP' drel='k7:VG2'>
+6.1	on	IN	<fs af='on,p,m,s,3,0,,' hlt='false' name='on'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+6.2	((	NP	<fs hlt='false' name='NP3'>
+6.2.1	his	PRP$	<fs af='he,P,m,s,3,0,,' case='GEN' hlt='false' name='his'>|<fs af='he,det,m,s,3,0,,' case='GEN'>
+6.2.2	behalf	NN	<fs af='behalf,n,m,s,3,0,,' hlt='false' name='behalf'>
+	))
+	))
+7	((	VG	<fs name='VG3' drel='vmod:VG2'>
+7.1	by	IN	<fs af='by,p,m,s,3,0,,' hlt='false' name='by'>|<fs af='by,n,m,s,3,0,,'>|<fs af='by,D,m,s,3,0,,'>|<fs af='by,p,m,s,3,0,,'>
+7.2	saying	VBG	<fs af='saying,n,m,s,3,0,,' hlt='false' name='saying'>|<fs af='say,v,m,s,3,0,,' aspect='PROG'>
+	))
+8	((	CCP	<fs hlt='false' name='CCP' drel='k2:VG3'>
+8.1	that	IN	<fs af='that,Comp,m,s,3,0,,' hlt='false' name='that'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+9	((	NP	<fs hlt='false' name='NP4' drel='k1:VG4'>
+9.1	any	DT	<fs af='any,D,m,s,3,0,,' hlt='false' name='any'>|<fs af='any,det,m,s,3,0,,'>
+9.2	such	JJ	<fs af='such,det,m,s,3,0,,' hlt='false' name='such'>
+9.3	incident	NN	<fs af='incident,n,m,s,3,0,,' hlt='false' name='incident'>
+	))
+10	((	ADVP	<fs hlt='false' name='ADVP2' drel='vmod:VG4'>
+10.1	never	RB	<fs af='never,D,m,s,3,0,,' hlt='false' name='never'>
+	))
+11	((	VG	<fs hlt='true' name='VG4' stype='declarative' drel='ccof:CCP' voicetype='active'>
+11.1	happened	VBD	<fs af='happen,v,m,s,3,0,,' tense='PAST' v_form='WK' hlt='false' name='happened'>|<fs af='happen,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+11.2	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='16'>
+1	((	VG	<fs hlt='true' name='VG' drel='vmod:VG2'>
+1.1	Answering	VBG	<fs af='answer,v,m,s,3,0,,' aspect='PROG' hlt='false' name='Answering'>
+	))
+2	((	NP	<fs hlt='false' name='NP' drel='k2:VG'>
+2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+2.2	reporters	NNS	<fs af='reporter,n,m,p,3,0,,' hlt='false' name='reporters'>
+2.3	questions	NNS	<fs af='question,n,m,p,3,0,,' hlt='false' name='questions'>|<fs af='question,v,m,s,3,0,,' tense='PRES'>
+	))
+3	((	NP	<fs hlt='false' name='NP2' drel='k1:VG2'>
+3.1	Balditya	NNP	<fs hlt='false' name='Balditya'>
+	))
+4	((	VG	<fs name='VG2'>
+4.1	kept	VBD	<fs af='keep,v,m,s,3,0,,' tense='PAST' v_form='STR' hlt='false' name='kept'>|<fs af='keep,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+4.2	reiterating	VBG	<fs af='reiterate,v,m,s,3,0,,' aspect='PROG' hlt='false' name='reiterating'>
+	))
+5	((	CCP	<fs hlt='false' name='CCP' drel='k2:VG2'>
+5.1	that	IN	<fs af='that,Comp,m,s,3,0,,' hlt='false' name='that'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+6	((	NP	<fs hlt='false' name='NP3' drel='k1:VG3'>
+6.1	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+7	((	VG	<fs name='VG3' drel='ccof:CCP'>
+7.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR' hlt='false' name='was'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+7.2	just	VBN	<fs af='jut,n,m,s,3,0,,' hlt='false' name='just'>|<fs af='jut,v,m,s,3,0,,'>
+7.3	showing	VBG	<fs af='showing,n,m,s,3,0,,' hlt='false' name='showing'>|<fs af='show,v,m,s,3,0,,' aspect='PROG'>
+	))
+8	((	NP	<fs hlt='false' name='NP4' drel='k2:VG3'>
+8.1	his	PRP$	<fs af='he,P,m,s,3,0,,' case='GEN' hlt='false' name='his'>|<fs af='he,det,m,s,3,0,,' case='GEN'>
+8.2	injured	JJ	<fs af='injured,adj,m,s,3,0,,' hlt='false' name='injured'>|<fs af='injure,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='injure,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+8.3	finger	NN	<fs af='finger,n,m,s,3,0,,' hlt='false' name='finger'>|<fs af='finger,v,m,s,3,0,,'>
+8.4	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='17'>
+1	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+1.1	He	PRP	<fs af='he,P,m,s,3,0,,' case='NOM' hlt='false' name='He'>
+	))
+2	((	VG	<fs name='VG' head='1' hlt='true' stype='declarative' voicetype='active'>
+2.1	said	VBD	<fs af='sayyid,n,m,p,3,0,,' hlt='false' name='said'>|<fs af='said,adj,m,s,3,0,,'>|<fs af='say,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='say,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	CCP	<fs hlt='false' name='CCP' drel='k2:VG'>
+3.1	that	IN	<fs af='that,Comp,m,s,3,0,,' hlt='false' name='that'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+4	((	NP	<fs hlt='false' name='NP2' drel='ccof:CCP2'>
+4.1	all	PDT	<fs af='all,n,m,s,3,0,,' hlt='false' name='all'>|<fs af='all,adj,m,s,3,0,,'>|<fs af='all,D,m,s,3,0,,'>|<fs af='all,det,m,s,3,0,,'>
+4.2	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+4.3	team	NN	<fs af='team,n,m,s,3,0,,' hlt='false' name='team'>|<fs af='team,v,m,s,3,0,,'>
+4.4	members	NNS	<fs af='member,n,m,p,3,0,,' hlt='false' name='members'>
+	))
+5	((	CCP	<fs hlt='false' name='CCP2' drel='k1:VG2'>
+5.1	and	CC	<fs af='and,Conj,m,s,3,0,,' hlt='false' name='and'>
+	))
+6	((	NP	<fs hlt='false' name='NP3' drel='ccof:CCP2'>
+6.1	Greg	NNP	<fs hlt='false' name='Greg'>
+6.2	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+7	((	VG	<fs hlt='true' name='VG2' stype='declarative' voicetype='active' drel='ccof:CCP'>
+7.1	respect	VB	<fs af='respect,n,m,s,3,0,,' hlt='false' name='respect'>|<fs af='respect,v,m,s,3,0,,'>
+	))
+8	((	NP	<fs hlt='false' name='NP4' drel='k2:VG2'>
+8.1	India	NNP	<fs hlt='false' name='India'>
+8.2	's	POS	<fs hlt='false' name='s'>
+8.3	cricket	NN	<fs af='cricket,n,m,s,3,0,,' hlt='false' name='cricket'>
+8.4	lovers	NNS	<fs af='lover,n,m,p,3,0,,' hlt='false' name='lovers'>
+8.5	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='18'>
+1	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+1.1	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+2	((	VG	<fs name='VG' head='2' hlt='true' stype='declarative' drel='ccof:CCP' voicetype='passive'>
+2.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR' hlt='false' name='was'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+2.2	injured	VBN	<fs af='injured,adj,m,s,3,0,,' hlt='false' name='injured'>|<fs af='injure,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='injure,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+3	((	PP	<fs hlt='false' name='PP' drel='k7t:VG'>
+3.1	during	IN	<fs af='during,p,m,s,3,0,,' hlt='false' name='during'>
+3.2	((	NP	<fs hlt='false' name='NP2'>
+3.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+3.2.2	practice	NN	<fs af='practice,n,m,s,3,0,,' hlt='false' name='practice'>|<fs af='practice,v,m,s,3,0,,'>
+3.2.3	session	NN	<fs af='session,n,m,s,3,0,,' hlt='false' name='session'>
+	))
+	))
+4	((	CCP	<fs hlt='false' name='CCP'>
+4.1	and	CC	<fs af='and,Conj,m,s,3,0,,' hlt='false' name='and'>
+	))
+5	((	NP	<fs hlt='false' name='NP3' drel='k2:VG2'>
+5.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the2'>
+5.2	matter	NN	<fs af='matter,n,m,s,3,0,,' hlt='false' name='matter'>|<fs af='matt,adj,m,s,3,0,,' degree='COMP'>|<fs af='matter,v,m,s,3,0,,'>
+	))
+6	((	VG	<fs hlt='true' name='VG2' stype='declarative' drel='ccof:CCP' voicetype='passive'>
+6.1	must	MD	<fs af='musth,n,m,s,3,0,,' hlt='false' name='must'>|<fs af='must,v,m,s,3,0,,' tense='PRES'>
+6.2	now	RB	<fs af='now,Conj,m,s,3,0,,' hlt='false' name='now'>|<fs af='now,n,m,s,3,0,,'>|<fs af='now,D,m,s,3,0,,'>
+6.3	be	VB	<fs af='be,v,m,s,3,0,,' hlt='false' name='be'>
+6.4	closed	VBN	<fs af='closed,adj,m,s,3,0,,' hlt='false' name='closed'>|<fs af='close,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='close,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+7	((	ADVP	<fs hlt='false' name='ADVP' drel='k7:VG2'>
+7.1	here	RB	<fs af='here,D,m,s,3,0,,' hlt='false' name='here'>|<fs af='here,P,m,s,3,0,,'>
+7.2	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='19'>
+1	((	NP	<fs hlt='false' name='NP' drel='k2:VG'>
+1.1	It	PRP	<fs af='it,P,m,s,3,0,,' case='NOM' hlt='false' name='It'>
+	))
+2	((	VG	<fs name='VG' head='3' hlt='true' stype='declarative'>
+2.1	should	MD	<fs af='should,v,m,s,3,0,,' tense='PRES' hlt='false' name='should'>
+2.2	be	VB	<fs af='be,v,m,s,3,0,,' hlt='false' name='be'>
+2.3	noted	VBN	<fs af='noted,adj,m,s,3,0,,' hlt='false' name='noted'>|<fs af='note,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='note,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+3	((	CCP	<fs hlt='false' name='CCP'>
+3.1	that	IN	<fs af='that,Comp,m,s,3,0,,' hlt='false' name='that'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+4	((	NP	<fs hlt='false' name='NP2' drel='k1:VG2'>
+4.1	Chappel	NNP	<fs hlt='false' name='Chappel'>
+	))
+5	((	VG	<fs hlt='true' name='VG2' stype='declarative'>
+5.1	had	VBD	<fs af='have,v,m,s,3,0,,' tense='PAST' v_form='STR' hlt='false' name='had'>|<fs af='have,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+5.2	made	VBN	<fs af='made,adj,m,s,3,0,,' hlt='false' name='made'>|<fs af='make,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='make,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+6	((	NP	<fs hlt='false' name='NP3' drel='k2:VG2'>
+6.1	a	DT	<fs af='a,n,m,s,3,0,,' hlt='false' name='a'>|<fs af='a,det,m,s,3,0,,'>
+6.2	finger	NN	<fs af='finger,n,m,s,3,0,,' hlt='false' name='finger'>|<fs af='finger,v,m,s,3,0,,'>
+6.3	gesture	NN	<fs af='gesture,n,m,s,3,0,,' hlt='false' name='gesture'>|<fs af='gesture,v,m,s,3,0,,'>
+6.4	,	SYM	<fs af=',punc,n,s,3,0,,' hlt='false' name=','>
+	))
+7	((	VG	<fs name='VG3' drel='k7t:VG2'>
+7.1	while	IN	<fs af='while,Conj,m,s,3,0,,' hlt='false' name='while'>|<fs af='while,n,m,s,3,0,,'>
+7.2	boarding	VBG	<fs af='boarding,n,m,s,3,0,,' hlt='false' name='boarding'>|<fs af='board,v,m,s,3,0,,' aspect='PROG'>
+	))
+8	((	NP	<fs hlt='false' name='NP4' drel='k2:VG3'>
+8.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the'>
+8.2	bus	NN	<fs af='bus,n,m,s,3,0,,' hlt='false' name='bus'>|<fs af='bus,v,m,s,3,0,,'>
+	))
+9	((	PP	<fs hlt='false' name='PP' drel='ras-k1:VG3'>
+9.1	with	IN	<fs af='with,p,m,s,3,0,,' hlt='false' name='with'>
+9.2	((	NP	<fs hlt='false' name='NP5'>
+9.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the2'>
+9.2.2	Indian	JJ	<fs hlt='false' name='Indian'>
+9.2.3	team	NN	<fs af='team,n,m,s,3,0,,' hlt='false' name='team'>|<fs af='team,v,m,s,3,0,,'>
+	))
+	))
+10	((	NP	<fs name='NP6' drel='k7t:VG3'>
+10.1	before	IN	<fs af='before,Conj,m,s,3,0,,' hlt='false' name='before'>|<fs af='before,p,m,s,3,0,,'>|<fs af='before,D,m,s,3,0,,'>
+10.2	((	NP	<fs name='NP7'>
+10.2.1	the	DT	<fs af='the,det,m,s,3,0,,' hlt='false' name='the3'>
+10.2.2	Kolkata	NNP	<fs hlt='false' name='Kolkata'>
+10.2.3	one	CD	<fs af='one,n,m,s,3,0,,' hlt='false' name='one'>|<fs af='one,det,m,s,3,0,,'>|<fs af='one,P,m,s,3,0,,' case='NOM'>
+10.2.4	day	NN	<fs af='day,n,m,s,3,0,,' hlt='false' name='day'>
+	))
+	))
+11	((	PP	<fs hlt='false' name='PP2' drel='k7:VG2'>
+11.1	at	IN	<fs af='at,p,m,s,3,0,,' hlt='false' name='at'>|<fs af='at,n,m,p,3,0,,'>|<fs af='at,n,m,s,3,0,,'>|<fs af='at,p,m,s,3,0,,'>
+11.2	((	NP	<fs hlt='false' name='NP8'>
+11.2.1	supporters	NNS	<fs af='supporter,n,m,p,3,0,,' hlt='false' name='supporters'>
+	))
+	))
+12	((	PP	<fs hlt='false' name='PP3' drel='r6:PP2'>
+12.1	of	IN	<fs af='of,p,m,s,3,0,,' hlt='false' name='of'>
+12.2	((	NP	<fs hlt='false' name='NP9'>
+12.2.1	Saurav	NNP	<fs hlt='false' name='Saurav'>
+12.2.2	Ganguly	NNP	<fs hlt='false' name='Ganguly'>
+	))
+	))
+13	((	NP	<fs name='NP10' head='1' hlt='false' drel='k1:VG4' coref='NP8'>
+13.1	who	WP	<fs af='who,P,m,s,3,0,,' hlt='false' name='who'>|<fs af='who,Comp,m,s,3,0,,'>
+	))
+14	((	VG	<fs hlt='true' name='VG4' stype='declarative' drel='nmod__relc:NP8'>
+14.1	were	VBD	<fs af='be,v,m,p,3,0,,' hlt='false' name='were'>
+14.2	raising	VBG	<fs af='raising,n,m,s,3,0,,' hlt='false' name='raising'>|<fs af='raise,v,m,s,3,0,,' aspect='PROG'>
+	))
+15	((	NP	<fs hlt='false' name='NP11' drel='k2:VG4'>
+15.1	slogans	NNS	<fs af='slogan,n,m,p,3,0,,' hlt='false' name='slogans'>
+	))
+16	((	PP	<fs hlt='false' name='PP4' drel='k7:VG4'>
+16.1	in	IN	<fs af='in,p,m,s,3,0,,' hlt='false' name='in'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+16.2	((	NP	<fs hlt='false' name='NP12'>
+16.2.1	his	PRP$	<fs af='he,P,m,s,3,0,,' case='GEN' hlt='false' name='his'>|<fs af='he,det,m,s,3,0,,' case='GEN'>
+16.2.2	favor	NN	<fs af='favour,n,m,s,3,0,,' hlt='false' name='favor'>|<fs af='favour,v,m,s,3,0,,'>
+	))
+16.3	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+<Sentence id='21'>
+1	((	NP	<fs hlt='false' name='NP' drel='k1:VG'>
+1.1	A	DT	<fs af='a,n,m,s,3,0,,' hlt='false' name='A'>|<fs af='a,det,m,s,3,0,,'>
+1.2	local	JJ	<fs af='local,n,m,s,3,0,,' hlt='false' name='local'>|<fs af='local,adj,m,s,3,0,,'>
+1.3	channel	NN	<fs af='channel,n,m,s,3,0,,' hlt='false' name='channel'>|<fs af='channel,v,m,s,3,0,,'>
+1.4	's	POS	<fs hlt='false' name='s'>
+1.5	cameraman	NN	<fs af='camera-man,n,m,s,3,0,,' hlt='false' name='cameraman'>|<fs af='cameraman,n,m,s,3,0,,'>
+	))
+2	((	VG	<fs name='VG' head='2' hlt='true' stype='declarative' voicetype='active' drel='ccof:CCP'>
+2.1	had	VBD	<fs af='have,v,m,s,3,0,,' tense='PAST' v_form='STR' hlt='false' name='had'>|<fs af='have,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+2.2	taken	VBN	<fs af='taken,adj,m,s,3,0,,' hlt='false' name='taken'>|<fs af='take,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	NP	<fs hlt='false' name='NP2' drel='k2:VG'>
+3.1	a	DT	<fs af='a,n,m,s,3,0,,' hlt='false' name='a'>|<fs af='a,det,m,s,3,0,,'>
+3.2	picture	NN	<fs af='picture,n,m,s,3,0,,' hlt='false' name='picture'>|<fs af='picture,v,m,s,3,0,,'>
+	))
+4	((	CCP	<fs hlt='false' name='CCP'>
+4.1	and	CC	<fs af='and,Conj,m,s,3,0,,' hlt='false' name='and'>
+	))
+5	((	VG	<fs hlt='true' name='VG2' stype='declarative' drel='ccof:CCP' voicetype='active'>
+5.1	sold	VBN	<fs af='sell,v,m,s,3,0,,' tense='PAST' v_form='STR' hlt='false' name='sold'>|<fs af='sell,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+6	((	NP	<fs hlt='false' name='NP3' drel='k2:VG2'>
+6.1	it	PRP	<fs af='it,P,m,s,3,0,,' case='NOM' hlt='false' name='it'>
+	))
+7	((	PP	<fs hlt='false' name='PP' drel='k4:VG2'>
+7.1	to	TO	<fs af='to,p,m,s,3,0,,' hlt='false' name='to'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+7.2	((	NP	<fs hlt='false' name='NP4'>
+7.2.1	various	JJ	<fs af='various,adj,m,s,3,0,,' hlt='false' name='various'>|<fs af='various,det,m,s,3,0,,'>
+7.2.2	news	NN	<fs af='new,n,m,p,3,0,,' hlt='false' name='news'>|<fs af='news,n,m,s,3,0,,'>
+7.2.3	channels	NNS	<fs af='channel,n,m,p,3,0,,' hlt='false' name='channels'>|<fs af='channel,v,m,s,3,0,,' tense='PRES'>
+	))
+7.3	.	SYM	<fs af='.,punc,n,s,3,0,,' hlt='false' name='.'>
+	))
+</Sentence>
+
+</document>

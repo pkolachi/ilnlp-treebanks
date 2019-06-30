@@ -1,0 +1,936 @@
+<document id="">
+<head>
+
+</head>
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	Sonal	NNP	
+1.2	Chauhan	NNP	
+	))
+2	((	VG	
+2.1	crowned	VBD	<fs af='crown,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='crown,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+3	((	NP	
+3.1	Miss	NNP	<fs af='miss,n,m,s,3,0,,'>|<fs af='miss,v,m,s,3,0,,'>
+3.2	Tourism	NNP	<fs af='tourism,n,m,s,3,0,,'>
+3.3	International	NNP	<fs af='international,n,m,s,3,0,,'>|<fs af='international,adj,m,s,3,0,,'>
+3.4	Amar	NNP	
+3.5	Ujala	NNP	
+3.6	Bureau	NNP	<fs af='bureau,n,m,s,3,0,,'>
+3.7	Noida	NNP	
+	))
+4	((	SYMP	
+4.1	.	.	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	VG	<fs af=',,,,,,,' name='5' drel='ccof:6'>
+1.1	Having	VBG	<fs af='have,v,m,s,3,0,,' aspect='PROG'>
+1.2	started	VBN	<fs af='start,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='start,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+2	((	NP	<fs af=',,,,,,,' drel='k2:5'>
+2.1	her	PRP$	<fs af='she,P,f,s,3,0,,' case='GEN'>|<fs af='she,P,f,s,3,0,,' case='ACC'>|<fs af='she,det,m,s,3,0,,' case='GEN'>
+2.2	modelling	JJ	<fs af='model,v,m,s,3,0,,' aspect='PROG'>
+2.3	career	NN	<fs af='career,n,m,s,3,0,,'>|<fs af='career,v,m,s,3,0,,'>
+	))
+3	((	PP	<fs af=',,,,,,,' drel='k5:5'>
+3.1	from	IN	<fs af='from,p,m,s,3,0,,'>|<fs af='from,p,m,s,3,0,,'>
+3.2	((	NP	
+3.2.1	Noida	NNP	
+	))
+	))
+4	((	CCP	<fs af=',,,,,,,' name='6'>
+4.1	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+5	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+5.1	Sonal	NNP	
+5.2	Chauhan	NNP	
+	))
+6	((	VG	<fs af=',,,,,,,' name='1' drel='ccof:6'>
+6.1	beat	VBD	<fs af='beat,n,m,s,3,0,,'>|<fs af='beat,adj,m,s,3,0,,'>|<fs af='beat,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='beat,v,m,s,3,0,,'>
+	))
+7	((	NP	<fs af=',,,,,,,' drel='k2:1' name='2'>
+7.1	girls	NNS	<fs af='girl,n,m,p,3,0,,'>
+	))
+8	((	PP	<fs af=',,,,,,,' drel='nmod:2'>
+8.1	from	IN	<fs af='from,p,m,s,3,0,,'>|<fs af='from,p,m,s,3,0,,'>
+8.2	((	NP	
+8.2.1	33	CD	
+8.2.2	other	JJ	<fs af='other,D,m,s,3,0,,'>|<fs af='other,det,m,s,3,0,,'>|<fs af='other,n,m,s,3,0,,'>
+8.2.3	countries	NNS	<fs af='country,n,m,p,3,0,,'>
+	))
+	))
+9	((	PP	<fs af=',,,,,,,' drel='k7t:1'>
+9.1	on	IN	<fs af='on,p,m,s,3,0,,'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+9.2	((	NP	
+9.2.1	Saturday	NNP	<fs af='saturday,n,m,s,3,0,,'>
+	))
+	))
+10	((	VG	<fs af=',,,,,,,' name='3' drel='rt:1'>
+10.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+10.2	win	VB	<fs af='win,n,m,s,3,0,,'>|<fs af='win,v,m,s,3,0,,'>
+	))
+11	((	NP	<fs af=',,,,,,,' drel='k2:3' name='4'>
+11.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+11.2	title	NN	<fs af='title,n,m,s,3,0,,'>|<fs af='title,v,m,s,3,0,,'>
+	))
+12	((	PP	<fs af=',,,,,,,' drel='r6:4'>
+12.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+12.2	((	NP	
+12.2.1	Miss	NNP	<fs af='miss,n,m,s,3,0,,'>|<fs af='miss,v,m,s,3,0,,'>
+12.2.2	Tourism	NNP	<fs af='tourism,n,m,s,3,0,,'>
+12.2.3	International	NNP	<fs af='international,n,m,s,3,0,,'>|<fs af='international,adj,m,s,3,0,,'>
+	))
+12.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+1.1	Sonal	NNP	
+	))
+2	((	VG	<fs af=',,,,,,,' name='1'>
+2.1	is	VBZ	<fs af='be,v,m,s,3,0,,' tense='PRES'>
+	))
+3	((	NP	<fs af=',,,,,,,' drel='k1s:1'>
+3.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+3.2	first	JJ	<fs af='first,n,m,s,3,0,,'>|<fs af='first,adj,m,s,3,0,,'>|<fs af='first,D,m,s,3,0,,'>
+3.3	girl	NN	<fs af='girl,n,m,s,3,0,,'>
+	))
+4	((	PP	<fs af=',,,,,,,' drel='k7p:1'>
+4.1	from	IN	<fs af='from,p,m,s,3,0,,'>|<fs af='from,p,m,s,3,0,,'>
+4.2	((	NP	
+4.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+4.2.2	country	NN	<fs af='country,n,m,s,3,0,,'>
+	))
+	))
+5	((	VG	<fs af=',,,,,,,' name='2' drel='k2:1'>
+5.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+5.2	win	VB	<fs af='win,n,m,s,3,0,,'>|<fs af='win,v,m,s,3,0,,'>
+	))
+6	((	NP	<fs af=',,,,,,,' drel='k2:2'>
+6.1	this	DT	<fs af='this,n,m,s,3,0,,'>|<fs af='this,D,m,s,3,0,,'>|<fs af='this,det,m,s,3,0,,'>
+6.2	title	NN	<fs af='title,n,m,s,3,0,,'>|<fs af='title,v,m,s,3,0,,'>
+6.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+1.1	The	DT	<fs af='the,det,m,s,3,0,,'>
+1.2	competition	NN	<fs af='competition,n,m,s,3,0,,'>
+	))
+2	((	VG	<fs af=',,,,,,,' name='1'>
+2.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+2.2	held	VBN	<fs af='hold,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='hold,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	PP	<fs af=',,,,,,,' drel='k7p:1'>
+3.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+3.2	((	NP	
+3.2.1	Malaysia	NNP	
+	))
+3.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	VG	<fs af=',,,,,,,' name='2' drel='vmod:1'>
+1.1	Talking	VBG	<fs af='talk,v,m,s,3,0,,' aspect='PROG'>
+	))
+2	((	ADVP	<fs af=',,,,,,,' drel='adv:2'>
+2.1	exclusively	RB	<fs af='exclusively,D,m,s,3,0,,'>
+	))
+3	((	PP	<fs af=',,,,,,,' drel='k2:2'>
+3.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+3.2	((	NP	
+3.2.1	Amar	NNP	
+3.2.2	Ujala	NNP	
+	))
+	))
+4	((	PP	<fs af=',,,,,,,' drel='k7:2'>
+4.1	over	IN	<fs af='over,p,m,s,3,0,,'>|<fs af='over,n,m,s,3,0,,'>|<fs af='over,D,m,s,3,0,,'>|<fs af='over,p,m,s,3,0,,'>
+4.2	((	NP	
+4.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+4.2.2	phone	NN	<fs af='phone,n,m,s,3,0,,'>|<fs af='phone,v,m,s,3,0,,'>
+	))
+	))
+5	((	PP	<fs af=',,,,,,,' drel='k7p:2'>
+5.1	from	IN	<fs af='from,p,m,s,3,0,,'>|<fs af='from,p,m,s,3,0,,'>
+5.2	((	NP	
+5.2.1	Malaysia	NNP	
+	))
+5.3	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+6	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+6.1	Sonal	NNP	
+	))
+7	((	VG	<fs af=',,,,,,,' name='1'>
+7.1	said	VBD	<fs af='sayyid,n,m,p,3,0,,'>|<fs af='said,adj,m,s,3,0,,'>|<fs af='say,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='say,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+7.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+8	((	NP	<fs af=',,,,,,,' drel='k1:3'>
+8.1	I	PRP	<fs af='i,n,m,s,1,0,,'>|<fs af='I,P,m,s,1,0,,' case='NOM'>
+	))
+9	((	VG	<fs af=',,,,,,,' name='3' drel='k2:1'>
+9.1	've	VBP	
+9.2	reached	VBN	<fs af='reach,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='reach,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+10	((	ADVP	<fs af=',,,,,,,' drel='k7p:3'>
+10.1	here	RB	<fs af='here,D,m,s,3,0,,'>|<fs af='here,P,m,s,3,0,,'>
+	))
+11	((	NP	<fs af=',,,,,,,' drel='rh:3'>
+11.1	because	IN	<fs af='because,Conj,m,s,3,0,,'>
+11.2	of	IN	<fs af='of,p,m,s,3,0,,'>
+11.3	((	NP	
+11.3.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+11.3.2	Noida	NNP	
+11.3.3	residents	NNS	<fs af='resident,n,m,p,3,0,,'>
+11.3.4	'	POS	
+	))
+11.4	((	NP	
+11.4.1	well	NN	<fs af='well,n,m,s,3,0,,'>|<fs af='well,D,m,s,3,0,,'>|<fs af='well,v,m,s,3,0,,'>
+11.4.2	wishes	NNS	<fs af='wish,n,m,p,3,0,,'>|<fs af='wish,v,m,s,3,0,,' tense='PRES'>
+11.4.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k2:1'>
+1.1	The	DT	<fs af='the,det,m,s,3,0,,'>
+1.2	competition	NN	<fs af='competition,n,m,s,3,0,,'>
+	))
+2	((	VG	<fs af=',,,,,,,' name='1'>
+2.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+2.2	held	VBN	<fs af='hold,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='hold,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	PP	<fs af=',,,,,,,' drel='rsp:2'>
+3.1	from	IN	<fs af='from,p,m,s,3,0,,'>|<fs af='from,p,m,s,3,0,,'>
+3.2	((	NP	
+3.2.1	9th	CD	
+	))
+	))
+4	((	PP	<fs af=',,,,,,,' name='2' drel='k7t:1'>
+4.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+4.2	((	NP	
+4.2.1	23rd	JJ	
+4.2.2	July	NNP	
+	))
+	))
+5	((	PP	<fs af=',,,,,,,' drel='k7p:1'>
+5.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+5.2	((	NP	
+5.2.1	Malaysia	NNP	
+5.2.2	's	POS	
+5.2.3	Kuching	NNP	
+5.2.4	city	NN	<fs af='city,n,m,s,3,0,,'>
+5.2.5	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	<fs af=',,,,,,,' drel='k7t:1'>
+1.1	After	IN	<fs af='after,Conj,m,s,3,0,,'>|<fs af='after,p,m,s,3,0,,'>|<fs af='aft,adj,m,s,3,0,,' degree='COMP'>|<fs af='after,adj,m,s,3,0,,'>|<fs af='after,D,m,s,3,0,,'>
+1.2	((	NP	
+1.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+1.2.2	competiton	NN	
+	))
+	))
+2	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+2.1	Sonal	NNP	
+	))
+3	((	VG	<fs af=',,,,,,,' name='1'>
+3.1	said	VBD	<fs af='sayyid,n,m,p,3,0,,'>|<fs af='said,adj,m,s,3,0,,'>|<fs af='say,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='say,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+4	((	CCP	<fs af=',,,,,,,' drel='k2:1' name='2'>
+4.1	that	IN	<fs af='that,Comp,m,s,3,0,,'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+5	((	ADVP	<fs af=',,,,,,,' drel='k7t:3'>
+5.1	when	WRB	<fs af='when,D,m,s,3,0,,'>|<fs af='when,P,m,s,3,0,,'>|<fs af='when,p,m,s,3,0,,'>|<fs af='when,Conj,m,s,3,0,,'>
+	))
+6	((	NP	<fs af=',,,,,,,' drel='k2:3'>
+6.1	her	PRP$	<fs af='she,P,f,s,3,0,,' case='GEN'>|<fs af='she,P,f,s,3,0,,' case='ACC'>|<fs af='she,det,m,s,3,0,,' case='GEN'>
+6.2	name	NN	<fs af='name,n,m,s,3,0,,'>|<fs af='name,v,m,s,3,0,,'>
+	))
+7	((	VG	<fs af=',,,,,,,' name='3' drel='k7t:4'>
+7.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+7.2	called	VBN	<fs af='call,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='call,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+8	((	ADVP	<fs af=',,,,,,,' drel='pof-idiom:3'>
+8.1	out	RP	<fs af='out,p,m,s,3,0,,'>|<fs af='out,n,m,s,3,0,,'>|<fs af='out,adj,m,s,3,0,,'>|<fs af='out,D,m,s,3,0,,'>|<fs af='out,v,m,s,3,0,,'>|<fs af='out,p,m,s,3,0,,'>
+	))
+9	((	PP	<fs af=',,,,,,,' drel='k2s:3'>
+9.1	as	IN	<fs af='as,Conj,m,s,3,0,,'>|<fs af='as,p,m,s,3,0,,'>|<fs af='as,n,m,s,3,0,,'>
+9.2	((	NP	
+9.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+9.2.2	winner	NN	<fs af='winner,n,m,s,3,0,,'>
+	))
+	))
+10	((	NP	<fs af=',,,,,,,' drel='k1:4'>
+10.1	she	PRP	<fs af='she,P,f,s,3,0,,' case='NOM'>
+	))
+11	((	VG	<fs af=',,,,,,,' name='4' drel='ccof:2'>
+11.1	could	MD	<fs af='could,v,m,s,3,0,,' tense='PRES'>
+11.2	n't	RB	
+11.3	belive	VB	
+	))
+12	((	NP	<fs af=',,,,,,,' drel='k2:4'>
+12.1	it	PRP	<fs af='it,P,m,s,3,0,,' case='NOM'>
+	))
+13	((	PP	<fs af=',,,,,,,' drel='k7t:4'>
+13.1	for	IN	<fs af='for,p,m,s,3,0,,'>|<fs af='for,Comp,m,s,3,0,,'>
+13.2	((	NP	
+13.2.1	a	DT	<fs af='a,n,m,s,3,0,,'>|<fs af='a,det,m,s,3,0,,'>
+13.2.2	few	JJ	<fs af='few,det,m,s,3,0,,'>|<fs af='few,adj,m,s,3,0,,'>
+13.2.3	moments	NNS	<fs af='moment,n,m,p,3,0,,'>
+	))
+13.3	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+14	((	CCP	<fs af=',,,,,,,' drel='rh:4' name='8'>
+14.1	because	IN	<fs af='because,Conj,m,s,3,0,,'>
+	))
+15	((	NP	<fs af=',,,,,,,' drel='k1:5'>
+15.1	she	PRP	<fs af='she,P,f,s,3,0,,' case='NOM'>
+	))
+16	((	VG	<fs af=',,,,,,,' name='5' drel='ccof:8'>
+16.1	'd	VBD	
+16.2	thought	VBN	<fs af='thought,n,m,s,3,0,,'>|<fs af='think,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='think,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+17	((	CCP	<fs af=',,,,,,,' drel='k2:5' name='7'>
+17.1	that	CC	<fs af='that,Comp,m,s,3,0,,'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+18	((	NP	<fs af=',,,,,,,' drel='k2:6'>
+18.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+18.2	results	NNS	<fs af='result,n,m,p,3,0,,'>|<fs af='result,v,m,s,3,0,,' tense='PRES'>
+	))
+19	((	VG	<fs af=',,,,,,,' name='6' drel='ccof:7'>
+19.1	had	VBZ	<fs af='had,,,,,,,'>
+19.2	already	RB	<fs af='already,D,m,s,3,0,,'>
+19.3	been	VBN	<fs af='be,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+19.4	fixed	VBN	<fs af='fixed,adj,m,s,3,0,,'>|<fs af='fix,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='fix,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+19.5	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1' name='2'>
+1.1	Girls	NNS	<fs af='girl,n,m,p,3,0,,'>
+	))
+2	((	PP	<fs af=',,,,,,,' drel='nmod:2'>
+2.1	from	IN	<fs af='from,p,m,s,3,0,,'>|<fs af='from,p,m,s,3,0,,'>
+2.2	((	NP	
+2.2.1	34	CD	
+2.2.2	countries	NNS	<fs af='country,n,m,p,3,0,,'>
+	))
+	))
+3	((	VG	<fs af=',,,,,,,' name='1'>
+3.1	participated	VBD	<fs af='participate,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='participate,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+4	((	PP	<fs af=',,,,,,,' drel='k7:1'>
+4.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+4.2	((	NP	
+4.2.1	this	DT	<fs af='this,n,m,s,3,0,,'>|<fs af='this,D,m,s,3,0,,'>|<fs af='this,det,m,s,3,0,,'>
+4.2.2	competition	NN	<fs af='competition,n,m,s,3,0,,'>
+	))
+4.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+1.1	Miss	NNC	<fs af='miss,n,m,s,3,0,,'>|<fs af='miss,v,m,s,3,0,,'>
+1.2	Russia	NNP	
+1.3	,	SYM	
+1.4	Natasha	NNP	
+	))
+2	((	VG	<fs af=',,,,,,,' name='1' drel='ccof:2'>
+2.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+	))
+3	((	NP	<fs af=',,,,,,,' drel='k1s:1'>
+3.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+3.2	first	JJ	<fs af='first,n,m,s,3,0,,'>|<fs af='first,adj,m,s,3,0,,'>|<fs af='first,D,m,s,3,0,,'>
+3.3	runners-up	NN	<fs af='runner,n,m,s,3,0,,'>
+	))
+4	((	CCP	<fs af=',,,,,,,' name='2'>
+4.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+5	((	NULL__VGF	<fs af=',,,,,,,' drel='ccof:2' name='3'>
+5.1	NULL	NULL	
+	))
+6	((	NP	<fs af=',,,,,,,' drel='k1:3'>
+6.1	Miss	NNC	<fs af='miss,n,m,s,3,0,,'>|<fs af='miss,v,m,s,3,0,,'>
+6.2	Lebanon	NNP	
+6.3	,	SYM	
+6.4	Sandra	NNP	
+	))
+7	((	NP	<fs af=',,,,,,,' drel='k1s:3'>
+7.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+7.2	second	JJ	<fs af='second,n,m,s,3,0,,'>|<fs af='second,adj,m,s,3,0,,'>|<fs af='second,D,m,s,3,0,,'>|<fs af='second,v,m,s,3,0,,'>
+7.3	runners-up	NN	<fs af='runner,n,m,s,3,0,,'>
+7.4	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+1.1	Sonal	NNP	
+	))
+2	((	VG	<fs af=',,,,,,,' name='1'>
+2.1	said	VBD	<fs af='sayyid,n,m,p,3,0,,'>|<fs af='said,adj,m,s,3,0,,'>|<fs af='say,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='say,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	NP	<fs af=',,,,,,,' drel='k1:2'>
+3.1	she	PRP	<fs af='she,P,f,s,3,0,,' case='NOM'>
+	))
+4	((	VG	<fs af=',,,,,,,' name='2' drel='k2:1'>
+4.1	recieved	VBD	
+	))
+5	((	NP	<fs af=',,,,,,,' drel='k2:2' name='3'>
+5.1	10	CD	
+5.2	thousand	CD	<fs af='thousand,n,m,s,3,0,,'>|<fs af='thousand,det,m,s,3,0,,'>
+5.3	Malaysian	JJ	
+5.4	baat	NN	
+5.5	(	SYM	
+5.6	about	RB	<fs af='about,p,m,s,3,0,,'>|<fs af='about,adj,m,s,3,0,,'>|<fs af='about,D,m,s,3,0,,'>|<fs af='about,p,m,s,3,0,,'>
+5.7	2	CD	
+5.8	lakh	NN	<fs af='lakh,n,m,s,3,0,,'>
+5.9	rupees	NN	<fs af='rupee,n,m,p,3,0,,'>
+5.10	)	SYM	
+	))
+6	((	PP	<fs af=',,,,,,,' drel='nmod:3'>
+6.1	as	IN	<fs af='as,Conj,m,s,3,0,,'>|<fs af='as,p,m,s,3,0,,'>|<fs af='as,n,m,s,3,0,,'>
+6.2	((	NP	
+6.2.1	prize	NN	<fs af='prise,n,m,s,3,0,,'>|<fs af='prize,v,m,s,3,0,,'>
+6.2.2	money	NN	<fs af='money,n,m,s,3,0,,'>
+	))
+6.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+1.1	She	PRP	<fs af='she,P,f,s,3,0,,' case='NOM'>
+	))
+2	((	VG	<fs af=',,,,,,,' name='1'>
+2.1	'll	MD	
+2.2	reach	VB	<fs af='reach,n,m,s,3,0,,'>|<fs af='reach,v,m,s,3,0,,'>
+	))
+3	((	NP	<fs af=',,,,,,,' drel='k7p:1'>
+3.1	Noida	NNP	
+	))
+4	((	PP	<fs af=',,,,,,,' drel='k7:1'>
+4.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+4.2	((	NP	
+4.2.1	two	CD	<fs af='two,n,m,s,3,0,,'>|<fs af='two,det,m,s,3,0,,'>
+4.2.2	or	CC	<fs af='or,Conj,m,s,3,0,,'>|<fs af='or,adj,m,s,3,0,,'>
+4.2.3	three	CD	<fs af='three,n,m,s,3,0,,'>|<fs af='three,det,m,s,3,0,,'>
+4.2.4	days	NNS	<fs af='day,n,m,p,3,0,,'>|<fs af='days,D,m,s,3,0,,'>
+	))
+4.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+1.1	Sonal	NNP	
+	))
+2	((	VG	<fs af=',,,,,,,' name='1'>
+2.1	recounted	VBD	<fs af='re-count,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='re-count,v,m,s,3,0,,' tense='PPART' v_form='WK'>|<fs af='recount,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='recount,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+3	((	CCP	<fs af=',,,,,,,' drel='k2:1' name='11'>
+3.1	that	IN	<fs af='that,Comp,m,s,3,0,,'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+4	((	ADVP	<fs af=',,,,,,,' drel='k7t:2'>
+4.1	when	WRB	<fs af='when,D,m,s,3,0,,'>|<fs af='when,P,m,s,3,0,,'>|<fs af='when,p,m,s,3,0,,'>|<fs af='when,Conj,m,s,3,0,,'>
+	))
+5	((	NP	<fs af=',,,,,,,' drel='k1:2'>
+5.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+5.2	judges	NNS	<fs af='judge,n,m,p,3,0,,'>|<fs af='judge,v,m,s,3,0,,' tense='PRES'>
+	))
+6	((	VG	<fs af=',,,,,,,' name='2' drel='ccof:11'>
+6.1	asked	VBD	<fs af='ask,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='ask,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+7	((	NP	<fs af=',,,,,,,' drel='k2:2'>
+7.1	her	PRP	<fs af='she,P,f,s,3,0,,' case='GEN'>|<fs af='she,P,f,s,3,0,,' case='ACC'>|<fs af='she,det,m,s,3,0,,' case='GEN'>
+7.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+8	((	CCP	<fs af=',,,,,,,' drel='vmod:4' name='5'>
+8.1	if	CC	<fs af='if,Conj,m,s,3,0,,'>|<fs af='if,Comp,m,s,3,0,,'>
+	))
+9	((	NP	<fs af=',,,,,,,' drel='k5:6'>
+9.1	you	PRP	<fs af='you,P,m,s,2,0,,' case='NOM'>|<fs af='you,PRON,m,s,2,0,,' case='ACC'>
+	))
+10	((	VG	<fs af=',,,,,,,' name='6' drel='ccof:5'>
+10.1	are	VBP	<fs af='are,n,m,s,3,0,,'>|<fs af='be,v,m,p,3,0,,'>
+10.2	asked	VBN	<fs af='ask,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='ask,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+11	((	VG	<fs af=',,,,,,,' drel='k2:6' name='7'>
+11.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+11.2	name	VB	<fs af='name,n,m,s,3,0,,'>|<fs af='name,v,m,s,3,0,,'>
+	))
+12	((	NP	<fs af=',,,,,,,' drel='k2:7' name='12'>
+12.1	someone	NN	<fs af='someone,P,m,s,3,0,,'>
+	))
+13	((	PP	<fs af=',,,,,,,' drel='nmod:12'>
+13.1	as	IN	<fs af='as,Conj,m,s,3,0,,'>|<fs af='as,p,m,s,3,0,,'>|<fs af='as,n,m,s,3,0,,'>
+13.2	((	NP	
+13.2.1	winner	NN	<fs af='winner,n,m,s,3,0,,'>
+	))
+	))
+14	((	CCP	<fs af=',,,,,,,' name='3'>
+14.1	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+15	((	NP	<fs af=',,,,,,,' drel='k2:4'>
+15.1	who	WP	<fs af='who,P,m,s,3,0,,'>|<fs af='who,Comp,m,s,3,0,,'>
+	))
+16	((	VG	<fs af=',,,,,,,' drel='fragof:4'>
+16.1	would	MD	<fs af='would,v,m,s,3,0,,' tense='PRES'>
+	))
+17	((	NP	<fs af=',,,,,,,' drel='k1:4'>
+17.1	you	PRP	<fs af='you,P,m,s,2,0,,' case='NOM'>|<fs af='you,PRON,m,s,2,0,,' case='ACC'>
+	))
+18	((	VG	<fs af=',,,,,,,' name='4' drel='ccof:3'>
+18.1	choose	VBP	<fs af='choose,v,m,s,3,0,,'>
+18.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+19	((	CCP	<fs af=',,,,,,,' drel='k7t:8'>
+19.1	then	RB	<fs af='then,adj,m,s,3,0,,'>|<fs af='then,D,m,s,3,0,,'>
+	))
+20	((	NP	<fs af=',,,,,,,' drel='k1:8'>
+20.1	I	PRP	<fs af='i,n,m,s,1,0,,'>|<fs af='I,P,m,s,1,0,,' case='NOM'>
+	))
+21	((	VG	<fs af=',,,,,,,' name='8' drel='ccof:9'>
+21.1	took	VBD	<fs af='take,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+	))
+22	((	NP	<fs af=',,,,,,,' drel='k2:8'>
+22.1	my	PRP$	<fs af='I,P,m,s,3,0,,' case='GEN'>|<fs af='I,det,m,s,3,0,,' case='GEN'>
+22.2	own	JJ	<fs af='own,det,m,s,3,0,,'>|<fs af='own,v,m,s,3,0,,'>
+22.3	name	NN	<fs af='name,n,m,s,3,0,,'>|<fs af='name,v,m,s,3,0,,'>
+	))
+23	((	CCP	<fs af=',,,,,,,' name='9'>
+23.1	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+24	((	NP	<fs af=',,,,,,,' drel='k1:10'>
+24.1	I	PRP	<fs af='i,n,m,s,1,0,,'>|<fs af='I,P,m,s,1,0,,' case='NOM'>
+	))
+25	((	VG	<fs af=',,,,,,,' name='10' drel='ccof:9'>
+25.1	could	MD	<fs af='could,v,m,s,3,0,,' tense='PRES'>
+25.2	n't	RB	
+25.3	think	VB	<fs af='think,n,m,s,3,0,,'>|<fs af='think,v,m,s,3,0,,'>
+	))
+26	((	PP	<fs af=',,,,,,,' drel='r6:10'>
+26.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+26.2	((	NP	
+26.2.1	anyone	NN	<fs af='anyone,P,m,s,3,0,,' case='NOM'>
+26.2.2	else	RB	<fs af='else,D,m,s,3,0,,'>|<fs af='else,det,m,s,3,0,,'>
+	))
+26.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+1.1	She	PRP	<fs af='she,P,f,s,3,0,,' case='NOM'>
+	))
+2	((	ADVP	<fs af=',,,,,,,' drel='adv:1'>
+2.1	especially	RB	<fs af='especially,D,m,s,3,0,,'>
+	))
+3	((	VG	<fs af=',,,,,,,' name='1'>
+3.1	wants	VBZ	<fs af='want,n,m,p,3,0,,'>|<fs af='want,v,m,s,3,0,,' tense='PRES'>
+	))
+4	((	VG	<fs af=',,,,,,,' drel='k2:1' name='2'>
+4.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+4.2	thank	VB	<fs af='thank,v,m,s,3,0,,'>
+	))
+5	((	NP	<fs af=',,,,,,,' drel='ccof:3'>
+5.1	Hemendra	NNP	
+5.2	Lalwani	NNP	
+	))
+6	((	CCP	<fs af=',,,,,,,' name='3' drel='k2:2'>
+6.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+7	((	NP	<fs af=',,,,,,,' drel='ccof:3' name='6'>
+7.1	Nandita	NNP	
+7.2	Roy	NNP	
+7.3	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+8	((	NP	<fs af=',,,,,,,' drel='r6:5'>
+8.1	her	PRP$	<fs af='she,P,f,s,3,0,,' case='GEN'>|<fs af='she,P,f,s,3,0,,' case='ACC'>|<fs af='she,det,m,s,3,0,,' case='GEN'>
+	))
+9	((	NP	<fs af=',,,,,,,' name='5' drel='ccof:4'>
+9.1	dress	NN	<fs af='dress,n,m,s,3,0,,'>|<fs af='dress,v,m,s,3,0,,'>
+9.2	designers	NNS	<fs af='designer,n,m,p,3,0,,'>
+	))
+10	((	CCP	<fs af=',,,,,,,' name='4' drel='nmod:6'>
+10.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+11	((	NP	<fs af=',,,,,,,' drel='ccof:4'>
+11.1	Mumbai	NNP	
+11.2	's	POS	
+11.3	Lancel	NNP	
+11.4	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='nmod:2'>
+1.1	Sonal	NNP	
+1.2	's	POS	
+1.3	father	NN	<fs af='father,n,m,s,3,0,,'>|<fs af='father,v,m,s,3,0,,'>
+1.4	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+2	((	NP	<fs af=',,,,,,,' drel='k1:1' name='2'>
+2.1	Raghuraj	NNP	
+2.2	Singh	NNP	
+2.3	Chauhan	NNP	
+	))
+3	((	VG	<fs af=',,,,,,,' name='1' drel='ccof:4'>
+3.1	is	VBZ	<fs af='be,v,m,s,3,0,,' tense='PRES'>
+	))
+4	((	NP	<fs af=',,,,,,,' drel='k1s:1'>
+4.1	a	DT	<fs af='a,n,m,s,3,0,,'>|<fs af='a,det,m,s,3,0,,'>
+4.2	police	NN	<fs af='police,n,m,s,3,0,,'>|<fs af='police,v,m,s,3,0,,'>
+4.3	inspector	NN	<fs af='inspector,n,m,s,3,0,,'>
+	))
+5	((	CCP	<fs af=',,,,,,,' name='4'>
+5.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+6	((	NP	<fs af=',,,,,,,' name='5' drel='ccof:4'>
+6.1	lives	NNS	<fs af='life,n,m,p,3,0,,'>|<fs af='live,v,m,s,3,0,,' tense='PRES'>
+	))
+7	((	PP	<fs af=',,,,,,,' drel='ras-k1:5'>
+7.1	with	IN	<fs af='with,p,m,s,3,0,,'>
+7.2	((	NP	
+7.2.1	his	PRP$	<fs af='he,P,m,s,3,0,,' case='GEN'>|<fs af='he,det,m,s,3,0,,' case='GEN'>
+7.2.2	family	NN	<fs af='family,n,m,s,3,0,,'>
+	))
+	))
+8	((	PP	<fs af=',,,,,,,' drel='k7p:5'>
+8.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+8.2	((	NP	
+8.2.1	Sector	NNS	<fs af='sector,n,m,s,3,0,,'>
+	))
+8.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+1.1	He	PRP	<fs af='he,P,m,s,3,0,,' case='NOM'>
+	))
+2	((	VG	<fs af=',,,,,,,' name='1'>
+2.1	said	VBD	<fs af='sayyid,n,m,p,3,0,,'>|<fs af='said,adj,m,s,3,0,,'>|<fs af='say,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='say,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	CCP	<fs af=',,,,,,,' drel='k2:1' name='2'>
+3.1	that	CC	<fs af='that,Comp,m,s,3,0,,'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+4	((	PP	<fs af=',,,,,,,' drel='k7t:3'>
+4.1	after	IN	<fs af='after,Conj,m,s,3,0,,'>|<fs af='after,p,m,s,3,0,,'>|<fs af='aft,adj,m,s,3,0,,' degree='COMP'>|<fs af='after,adj,m,s,3,0,,'>|<fs af='after,D,m,s,3,0,,'>
+	))
+5	((	VG	<fs af=',,,,,,,' drel='vmod:4' name='3'>
+5.1	being	VBG	<fs af='being,n,m,s,3,0,,'>|<fs af='be,v,m,s,3,0,,' aspect='PROG'>
+5.2	admitted	VBN	<fs af='admit,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='admit,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+6	((	PP	<fs af=',,,,,,,' drel='k7p:3'>
+6.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+6.2	((	NP	
+6.2.1	Delhi	NNP	
+6.2.2	's	POS	
+6.2.3	Gargi	NNP	
+6.2.4	college	NN	<fs af='college,n,m,s,3,0,,'>
+	))
+	))
+7	((	NP	<fs af=',,,,,,,' drel='k1:4'>
+7.1	someone	NN	<fs af='someone,P,m,s,3,0,,'>
+	))
+8	((	VG	<fs af=',,,,,,,' name='4' drel='ccof:2'>
+8.1	had	VBD	<fs af='have,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='have,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+8.2	remarked	VBD	<fs af='remark,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='remark,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+9	((	CCP	<fs af=',,,,,,,' drel='k2:4' name='7'>
+9.1	that	CC	<fs af='that,Comp,m,s,3,0,,'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+10	((	NP	<fs af=',,,,,,,' drel='k1:5'>
+10.1	she	PRP	<fs af='she,P,f,s,3,0,,' case='NOM'>
+	))
+11	((	VG	<fs af=',,,,,,,' name='5' drel='ccof:7'>
+11.1	had	MD	
+11.2	come	VBN	<fs af='come,v,m,s,3,0,,' tense='PPART' v_form='STR'>|<fs af='come,v,m,s,3,0,,'>
+	))
+12	((	NP	<fs af=',,,,,,,' drel='k7p:5'>
+12.1	there	EX	<fs af='there,adj,m,s,3,0,,'>|<fs af='there,D,m,s,3,0,,'>|<fs af='there,P,m,s,3,0,,'>
+	))
+13	((	VG	<fs af=',,,,,,,' drel='k2:5' name='6'>
+13.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+13.2	win	VB	<fs af='win,n,m,s,3,0,,'>|<fs af='win,v,m,s,3,0,,'>
+	))
+14	((	NP	<fs af=',,,,,,,' drel='k2:6'>
+14.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+14.2	Miss	NNP	<fs af='miss,n,m,s,3,0,,'>|<fs af='miss,v,m,s,3,0,,'>
+14.3	India	NNP	
+14.4	title	NN	<fs af='title,n,m,s,3,0,,'>|<fs af='title,v,m,s,3,0,,'>
+14.5	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+1.1	It	PRP	<fs af='it,P,m,s,3,0,,' case='NOM'>
+	))
+2	((	VG	<fs af=',,,,,,,' name='1'>
+2.1	's	VBZ	
+	))
+3	((	NP	<fs af=',,,,,,,' drel='k1s:1' name='2'>
+3.1	that	DT	<fs af='that,Comp,m,s,3,0,,'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+3.2	remark	NN	<fs af='remarque,n,m,s,3,0,,'>|<fs af='remark,v,m,s,3,0,,'>
+	))
+4	((	NP	<fs af=',,,,,,,' drel='k1:3' coref='2'>
+4.1	that	WDT	<fs af='that,Comp,m,s,3,0,,'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+5	((	VG	<fs af=',,,,,,,' name='3' drel='nmod:2'>
+5.1	has	VBZ	<fs af='have,v,m,s,3,0,,' tense='PRES'>
+5.2	got	VBN	<fs af='get,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='get,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+6	((	NP	<fs af=',,,,,,,' drel='k2:3'>
+6.1	her	PRP	<fs af='she,P,f,s,3,0,,' case='GEN'>|<fs af='she,P,f,s,3,0,,' case='ACC'>|<fs af='she,det,m,s,3,0,,' case='GEN'>
+	))
+7	((	ADVP	<fs af=',,,,,,,' drel='k7p:3'>
+7.1	here	RB	<fs af='here,D,m,s,3,0,,'>|<fs af='here,P,m,s,3,0,,'>
+	))
+8	((	ADVP	<fs af=',,,,,,,' drel='k7t:3'>
+8.1	today	NN	<fs af='today,n,m,s,3,0,,'>|<fs af='today,D,m,s,3,0,,'>
+8.2	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+1.1	He	PRP	<fs af='he,P,m,s,3,0,,' case='NOM'>
+	))
+2	((	VG	<fs af=',,,,,,,' name='1'>
+2.1	said	VBD	<fs af='sayyid,n,m,p,3,0,,'>|<fs af='said,adj,m,s,3,0,,'>|<fs af='say,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='say,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	CCP	<fs af=',,,,,,,' drel='k2:1' name='5'>
+3.1	that	IN	<fs af='that,Comp,m,s,3,0,,'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+4	((	PP	<fs af=',,,,,,,' drel='k7t:2'>
+4.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+4.2	((	NP	
+4.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+4.2.2	beginning	NN	<fs af='beginning,n,m,s,3,0,,'>|<fs af='begin,v,m,s,3,0,,' aspect='PROG'>
+	))
+	))
+5	((	NP	<fs af=',,,,,,,' drel='k1:2'>
+5.1	he	PRP	<fs af='he,P,m,s,3,0,,' case='NOM'>
+	))
+6	((	VG	<fs af=',,,,,,,' name='2' drel='ccof:5'>
+6.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+6.2	n't	NEG	<fs af='comma,punc,n,s,3,0,,'>
+	))
+7	((	PP	<fs af=',,,,,,,' drel='k7:2' name='3'>
+7.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+7.2	((	NP	
+7.2.1	favor	NN	<fs af='favour,n,m,s,3,0,,'>|<fs af='favour,v,m,s,3,0,,'>
+	))
+	))
+8	((	PP	<fs af=',,,,,,,' drel='r6-k2:3' name='6'>
+8.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+8.2	((	NP	
+8.2.1	his	PRP$	<fs af='he,P,m,s,3,0,,' case='GEN'>|<fs af='he,det,m,s,3,0,,' case='GEN'>
+8.2.2	daughter	NN	<fs af='daughter,n,m,s,3,0,,'>
+	))
+	))
+9	((	VG	<fs af=',,,,,,,' name='4' drel='nmod:6'>
+9.1	participating	VBG	<fs af='participate,v,m,s,3,0,,' aspect='PROG'>
+	))
+10	((	PP	<fs af=',,,,,,,' drel='k7:4'>
+10.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+10.2	((	NP	<fs af=',,,,,,,'>
+10.2.1	these	DT	<fs af='these,det,m,p,3,0,,'>|<fs af='these,n,m,p,3,0,,'>
+10.2.2	competitions	NNS	<fs af='competition,n,m,p,3,0,,'>
+	))
+10.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	<fs af=',,,,,,,' drel='sent-adv:1'>
+1.1	But	CC	<fs af='but,Conj,m,s,3,0,,'>|<fs af='but,p,m,s,3,0,,'>|<fs af='but,n,m,s,3,0,,'>|<fs af='but,D,m,s,3,0,,'>
+	))
+2	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+2.1	he	PRP	<fs af='he,P,m,s,3,0,,' case='NOM'>
+	))
+3	((	VG	<fs af=',,,,,,,' name='1'>
+3.1	had	VBD	<fs af='have,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='have,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+3.2	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+3.3	agree	VB	<fs af='agree,v,m,s,3,0,,'>
+	))
+4	((	PP	<fs af=',,,,,,,' name='2' drel='k7:1'>
+4.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+4.2	((	NP	
+4.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+4.2.2	face	NN	<fs af='face,n,m,s,3,0,,'>|<fs af='face,v,m,s,3,0,,'>
+	))
+	))
+5	((	PP	<fs af=',,,,,,,' drel='pof-idiom:2'>
+5.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+5.2	((	NP	
+5.2.1	her	PRP$	<fs af='she,P,f,s,3,0,,' case='GEN'>|<fs af='she,P,f,s,3,0,,' case='ACC'>|<fs af='she,det,m,s,3,0,,' case='GEN'>
+5.2.2	strong	JJ	<fs af='strong,adj,m,s,3,0,,'>|<fs af='strong,D,m,s,3,0,,'>
+5.2.3	determination	NN	<fs af='determination,n,m,s,3,0,,'>
+	))
+5.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	<fs af=',,,,,,,' drel='k7t:1'>
+1.1	From	IN	<fs af='from,p,m,s,3,0,,'>|<fs af='from,p,m,s,3,0,,'>
+1.2	((	NP	
+1.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+1.2.2	beginning	NN	<fs af='beginning,n,m,s,3,0,,'>|<fs af='begin,v,m,s,3,0,,' aspect='PROG'>
+	))
+	))
+2	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+2.1	she	PRP	<fs af='she,P,f,s,3,0,,' case='NOM'>
+	))
+3	((	VG	<fs af=',,,,,,,' name='1'>
+3.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+	))
+4	((	ADJP	<fs af=',,,,,,,' drel='k1s:1' name='2'>
+4.1	different	JJ	<fs af='different,adj,m,s,3,0,,'>
+	))
+5	((	PP	<fs af=',,,,,,,' drel='nmod:2'>
+5.1	from	IN	<fs af='from,p,m,s,3,0,,'>|<fs af='from,p,m,s,3,0,,'>
+5.2	((	NP	
+5.2.1	other	JJ	<fs af='other,D,m,s,3,0,,'>|<fs af='other,det,m,s,3,0,,'>|<fs af='other,n,m,s,3,0,,'>
+5.2.2	children	NNS	<fs af='child,n,m,p,3,0,,'>
+	))
+5.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	ADVP	<fs af=',,,,,,,' drel='k7t:2'>
+1.1	When	WRB	<fs af='when,D,m,s,3,0,,'>|<fs af='when,P,m,s,3,0,,'>|<fs af='when,p,m,s,3,0,,'>|<fs af='when,Conj,m,s,3,0,,'>
+	))
+2	((	NP	<fs af=',,,,,,,' drel='k1:2' name='8'>
+2.1	Sonal	NNP	
+2.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+3	((	NP	<fs af=',,,,,,,' drel='k1:9' coref='2'>
+3.1	who	WP	<fs af='who,P,m,s,3,0,,'>|<fs af='who,Comp,m,s,3,0,,'>
+	))
+4	((	VG	<fs af=',,,,,,,' drel='nmod:8' name='9'>
+4.1	has	VBZ	<fs af='have,v,m,s,3,0,,' tense='PRES'>
+4.2	modelled	VBN	<fs af='model,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='model,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+5	((	NP	<fs af=',,,,,,,' drel='rt:9'>
+5.1	for	IN	<fs af='for,p,m,s,3,0,,'>|<fs af='for,Comp,m,s,3,0,,'>
+5.2	((	NP	
+5.2.1	a	DT	<fs af='a,n,m,s,3,0,,'>|<fs af='a,det,m,s,3,0,,'>
+5.2.2	number	NN	<fs af='number,n,m,s,3,0,,'>|<fs af='numb,adj,m,s,3,0,,' degree='COMP'>|<fs af='number,v,m,s,3,0,,'>
+5.2.3	of	IN	<fs af='of,p,m,s,3,0,,'>
+5.2.4	ads	NNS	<fs af='ad,n,m,p,3,0,,'>
+5.2.5	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+	))
+6	((	VG	<fs af=',,,,,,,' drel='ccof:1' name='2'>
+6.1	called	VBD	<fs af='call,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='call,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+7	((	NP	<fs af=',,,,,,,' drel='k2:2'>
+7.1	home	NN	<fs af='home,n,m,s,3,0,,'>|<fs af='home,D,m,s,3,0,,'>|<fs af='home,v,m,s,3,0,,'>|<fs af='home,p,m,s,3,0,,'>|<fs af='home,p,m,s,3,0,,'>
+	))
+8	((	NP	<fs af=',,,,,,,' drel='k7t:2'>
+8.1	last	JJ	<fs af='last,n,m,s,3,0,,'>|<fs af='last,adj,m,s,3,0,,'>|<fs af='last,D,m,s,3,0,,'>|<fs af='last,v,m,s,3,0,,'>
+8.2	night	NN	<fs af='night,n,m,s,3,0,,'>
+	))
+9	((	CCP	<fs af=',,,,,,,' name='1' drel='nmod__relc:6'>
+9.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+10	((	VG	<fs af=',,,,,,,' drel='ccof:1' name='3'>
+10.1	conveyed	VBD	<fs af='convey,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='convey,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+11	((	NP	<fs af=',,,,,,,' drel='k2:3' name='4'>
+11.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+11.2	news	NN	<fs af='new,n,m,p,3,0,,'>|<fs af='news,n,m,s,3,0,,'>
+	))
+12	((	PP	<fs af=',,,,,,,' drel='r6:4'>
+12.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+12.2	((	NP	
+12.2.1	her	PRP$	<fs af='she,P,f,s,3,0,,' case='GEN'>|<fs af='she,P,f,s,3,0,,' case='ACC'>|<fs af='she,det,m,s,3,0,,' case='GEN'>
+12.2.2	triumph	NN	<fs af='triumph,n,m,s,3,0,,'>|<fs af='triumph,v,m,s,3,0,,'>
+12.2.3	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+	))
+13	((	NP	<fs af=',,,,,,,' drel='k1:5'>
+13.1	celebrations	NNS	<fs af='celebration,n,m,p,3,0,,'>
+	))
+14	((	VG	<fs af=',,,,,,,' name='5' drel='ccof:6'>
+14.1	broke	VBD	<fs af='broke,adj,m,s,3,0,,'>|<fs af='break,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+	))
+15	((	PRT	<fs af=',,,,,,,' drel='pof-idiom:5'>
+15.1	out	RP	<fs af='out,p,m,s,3,0,,'>|<fs af='out,n,m,s,3,0,,'>|<fs af='out,adj,m,s,3,0,,'>|<fs af='out,D,m,s,3,0,,'>|<fs af='out,v,m,s,3,0,,'>|<fs af='out,p,m,s,3,0,,'>
+	))
+16	((	PP	<fs af=',,,,,,,' drel='k7p:5'>
+16.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+16.2	((	NP	
+16.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+16.2.2	house	NN	<fs af='house,n,m,s,3,0,,'>|<fs af='house,v,m,s,3,0,,'>
+	))
+	))
+17	((	CCP	<fs af=',,,,,,,' name='6'>
+17.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+18	((	NP	<fs af=',,,,,,,' drel='k2:7'>
+18.1	crackers	NNS	<fs af='cracker,n,m,p,3,0,,'>|<fs af='crackers,adj,m,s,3,0,,'>
+	))
+19	((	VG	<fs af=',,,,,,,' drel='cco:6' name='7'>
+19.1	were	VBD	<fs af='be,v,m,p,3,0,,'>
+19.2	burst	VM	<fs af='burst,n,m,s,3,0,,'>|<fs af='burst,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='burst,v,m,s,3,0,,' tense='PPART' v_form='STR'>|<fs af='burst,v,m,s,3,0,,'>
+19.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+</document>

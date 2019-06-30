@@ -1,0 +1,842 @@
+<document id="">
+<head>
+
+</head>
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	
+1.1	Monsoon	IN	<fs af='monsoon,n,m,s,3,0,,'>
+1.2	((	NP	
+1.2.1	gains	NNS	<fs af='gain,n,m,p,3,0,,'>|<fs af='gains,n,m,s,3,0,,'>|<fs af='gain,v,m,s,3,0,,' tense='PRES'>
+1.2.2	strength	NN	<fs af='strength,n,m,s,3,0,,'>
+	))
+	))
+2	((	NP	
+2.1	Pre	JJ	
+2.2	showers	NNS	<fs af='shower,n,m,p,3,0,,'>|<fs af='shower,v,m,s,3,0,,' tense='PRES'>
+	))
+3	((	VG	
+3.1	drench	VBP	<fs af='drench,n,m,s,3,0,,'>|<fs af='drench,v,m,s,3,0,,'>
+	))
+4	((	NP	
+4.1	delhi	NNS	
+	))
+5	((	XP	
+5.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+6	((	NP	
+6.1	nearby	JJ	<fs af='nearby,adj,m,s,3,0,,'>|<fs af='nearby,D,m,s,3,0,,'>
+6.2	areas	NNS	<fs af='area,n,m,p,3,0,,'>
+6.3	Amar	NNP	
+6.4	Ujala	NNP	
+6.5	Bureau\/Agencies	NNP	
+6.6	New	NNP	<fs af='new,n,m,s,3,0,,'>|<fs af='new,adj,m,s,3,0,,'>
+6.7	Delhi	NNP	
+6.8	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	VG	<fs af=',,,,,,,' drel='vmod:1' name='2'>
+1.1	Having	VBG	<fs af='have,v,m,s,3,0,,' aspect='PROG'>
+1.2	stopped	VBN	<fs af='stopped,adj,m,s,3,0,,'>|<fs af='stop,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='stop,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+2	((	PP	<fs af=',,,,,,,' drel='k7p:2'>
+2.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+2.2	((	NP	
+2.2.1	Benares	NNP	
+	))
+	))
+3	((	PP	<fs af=',,,,,,,' drel='k7t:2'>
+3.1	on	IN	<fs af='on,p,m,s,3,0,,'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+3.2	((	NP	
+3.2.1	Saturday	NNP	<fs af='saturday,n,m,s,3,0,,'>
+3.2.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+	))
+4	((	NP	<fs af=',,,,,,,' drel='k1:1'>
+4.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+4.2	monsson	NN	
+	))
+5	((	ADVP	<fs af=',,,,,,,' drel='k7t:1'>
+5.1	again	RB	<fs af='again,D,m,s,3,0,,'>
+	))
+6	((	VG	<fs af=',,,,,,,' name='1'>
+6.1	gained	VBD	<fs af='gain,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='gain,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+7	((	NP	<fs af=',,,,,,,' drel='k2:1'>
+7.1	stregth	NN	
+	))
+8	((	NP	<fs af=',,,,,,,' drel='k7t:1'>
+8.1	today	NN	<fs af='today,n,m,s,3,0,,'>|<fs af='today,D,m,s,3,0,,'>
+8.2	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	<fs af=',,,,,,,' drel='k7t:1'>
+1.1	On	IN	<fs af='on,p,m,s,3,0,,'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+1.2	((	NP	
+1.2.1	Sunday	NNP	<fs af='sunday,n,m,s,3,0,,'>
+1.2.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+	))
+2	((	NP	<fs af=',,,,,,,' drel='k1:1' name='2'>
+2.1	some	DT	<fs af='some,D,m,s,3,0,,'>|<fs af='some,det,m,s,3,0,,'>|<fs af='some,P,m,p,3,0,,'>
+2.2	parts	NNS	<fs af='part,n,m,p,3,0,,'>|<fs af='parts,n,m,s,3,0,,'>|<fs af='part,v,m,s,3,0,,' tense='PRES'>
+	))
+3	((	PP	<fs af=',,,,,,,' drel='r6:2'>
+3.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+3.2	((	NP	
+3.2.1	India	NNP	
+	))
+	))
+4	((	VG	<fs af=',,,,,,,' name='1'>
+4.1	experienced	VBD	<fs af='experienced,adj,m,s,3,0,,'>|<fs af='experience,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='experience,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+5	((	NP	<fs af=',,,,,,,' drel='k2:1' name='3'>
+5.1	heavy	JJ	<fs af='heavy,adj,m,s,3,0,,'>
+5.2	rainfall	NN	<fs af='rainfall,n,m,s,3,0,,'>
+5.3	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+6	((	NP	<fs af=',,,,,,,' coref='3' drel='k1:4'>
+6.1	which	WDT	<fs af='which,det,m,s,3,0,,'>|<fs af='which,P,m,s,3,0,,'>|<fs af='which,Comp,m,s,3,0,,'>
+	))
+7	((	VG	<fs af=',,,,,,,' drel='nmod__relc:3' name='4'>
+7.1	brought	VBD	<fs af='bring,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='bring,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+8	((	NP	<fs af=',,,,,,,' drel='k2:4' name='5'>
+8.1	a	DT	<fs af='a,n,m,s,3,0,,'>|<fs af='a,det,m,s,3,0,,'>
+8.2	sigh	NN	<fs af='sigh,n,m,s,3,0,,'>|<fs af='sigh,v,m,s,3,0,,'>
+	))
+9	((	PP	<fs af=',,,,,,,' drel='r6:5'>
+9.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+9.2	((	NP	
+9.2.1	relief	NN	<fs af='relief,n,m,s,3,0,,'>
+	))
+	))
+10	((	PP	<fs af=',,,,,,,' drel='k4a:4' name='7'>
+10.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+10.2	((	NP	
+10.2.1	people	NNS	<fs af='people,n,m,p,3,0,,'>|<fs af='people,v,m,p,3,0,,'>
+	))
+	))
+11	((	VG	<fs af=',,,,,,,' drel='nmod__k2inv:7' name='6'>
+11.1	tormented	VBN	<fs af='torment,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='torment,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+12	((	PP	<fs af=',,,,,,,' drel='k1:6'>
+12.1	by	IN	<fs af='by,p,m,s,3,0,,'>|<fs af='by,n,m,s,3,0,,'>|<fs af='by,D,m,s,3,0,,'>|<fs af='by,p,m,s,3,0,,'>
+12.2	((	NP	
+12.2.1	heat	NN	<fs af='heat,n,m,s,3,0,,'>|<fs af='heat,v,m,s,3,0,,'>
+12.2.2	waves	NNS	<fs af='wave,n,m,p,3,0,,'>|<fs af='wave,v,m,s,3,0,,' tense='PRES'>
+12.2.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	<fs af=',,,,,,,' drel='ccof:2'>
+1.1	Delhi	NNP	
+	))
+2	((	CCP	<fs af=',,,,,,,' name='2' drel='k1:1'>
+2.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+3	((	NP	<fs af=',,,,,,,' drel='ccof:2'>
+3.1	nearby	JJ	<fs af='nearby,adj,m,s,3,0,,'>|<fs af='nearby,D,m,s,3,0,,'>
+3.2	areas	NNS	<fs af='area,n,m,p,3,0,,'>
+	))
+4	((	VG	<fs af=',,,,,,,' name='1' drel='ccof:3'>
+4.1	experienced	VBD	<fs af='experienced,adj,m,s,3,0,,'>|<fs af='experience,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='experience,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+5	((	NP	<fs af=',,,,,,,' drel='k2:1'>
+5.1	a	DT	<fs af='a,n,m,s,3,0,,'>|<fs af='a,det,m,s,3,0,,'>
+5.2	good	JJ	<fs af='good,n,m,s,3,0,,'>|<fs af='good,adj,m,s,3,0,,'>
+5.3	rainfall	NN	<fs af='rainfall,n,m,s,3,0,,'>
+	))
+6	((	CCP	<fs af=',,,,,,,' name='3'>
+6.1	but	CC	<fs af='but,Conj,m,s,3,0,,'>|<fs af='but,p,m,s,3,0,,'>|<fs af='but,n,m,s,3,0,,'>|<fs af='but,D,m,s,3,0,,'>
+	))
+7	((	NP	<fs af=',,,,,,,' drel='k1:4'>
+7.1	these	DT	<fs af='these,det,m,p,3,0,,'>|<fs af='these,n,m,p,3,0,,'>
+	))
+8	((	VG	<fs af=',,,,,,,' drel='ccof:3' name='4'>
+8.1	are	VBP	<fs af='are,n,m,s,3,0,,'>|<fs af='be,v,m,p,3,0,,'>
+	))
+9	((	NP	<fs af=',,,,,,,' drel='k1s:4'>
+9.1	pre	JJ	
+9.2	showers	NNS	<fs af='shower,n,m,p,3,0,,'>|<fs af='shower,v,m,s,3,0,,' tense='PRES'>
+9.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	The	DT	<fs af='the,det,m,s,3,0,,'>
+1.2	Weather	NNP	<fs af='weather,n,m,s,3,0,,'>|<fs af='weather,adj,m,s,3,0,,'>|<fs af='weather,v,m,s,3,0,,'>
+1.3	Department	NNP	<fs af='department,n,m,s,3,0,,'>
+	))
+2	((	VG	
+2.1	belives	VBZ	
+	))
+3	((	SBAR	
+3.1	that	IN	<fs af='that,Comp,m,s,3,0,,'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+3.2	after	IN	<fs af='after,Conj,m,s,3,0,,'>|<fs af='after,p,m,s,3,0,,'>|<fs af='aft,adj,m,s,3,0,,' degree='COMP'>|<fs af='after,adj,m,s,3,0,,'>|<fs af='after,D,m,s,3,0,,'>
+	))
+4	((	NP	
+4.1	these	DT	<fs af='these,det,m,p,3,0,,'>|<fs af='these,n,m,p,3,0,,'>
+4.2	rains	NNS	<fs af='rain,n,m,p,3,0,,'>|<fs af='rain,v,m,s,3,0,,' tense='PRES'>
+4.3	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+5	((	NP	
+5.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+5.2	possibilty	NN	
+	))
+6	((	PP	
+6.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+6.2	((	NP	
+6.2.1	monsoon	NN	<fs af='monsoon,n,m,s,3,0,,'>
+	))
+	))
+7	((	VG	
+7.1	reaching	VBG	<fs af='reach,v,m,s,3,0,,' aspect='PROG'>
+	))
+8	((	NP	
+8.1	Delhi	NNP	
+	))
+9	((	PP	
+9.1	on	IN	<fs af='on,p,m,s,3,0,,'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+9.2	((	NP	
+9.2.1	time	NN	<fs af='time,n,m,s,3,0,,'>|<fs af='time,v,m,s,3,0,,'>
+9.2.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+	))
+10	((	VG	
+10.1	has	VBZ	<fs af='have,v,m,s,3,0,,' tense='PRES'>
+10.2	increased	VBN	<fs af='increase,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='increase,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+10.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	XP	
+1.1	And	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+2	((	NP	
+2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+2.2	experts	NNS	<fs af='expert,n,m,p,3,0,,'>
+	))
+3	((	VG	
+3.1	believe	VBP	<fs af='believe,v,m,s,3,0,,'>
+	))
+4	((	SBAR	
+4.1	that	IN	<fs af='that,Comp,m,s,3,0,,'>|<fs af='that,D,m,s,3,0,,'>|<fs af='that,det,m,s,3,0,,'>|<fs af='that,P,m,s,3,0,,'>
+	))
+5	((	NP	
+5.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+5.2	pre	JJ	
+5.3	showers	NNS	<fs af='shower,n,m,p,3,0,,'>|<fs af='shower,v,m,s,3,0,,' tense='PRES'>
+	))
+6	((	VG	
+6.1	would	MD	<fs af='would,v,m,s,3,0,,' tense='PRES'>
+6.2	lead	VB	<fs af='lead,n,m,s,3,0,,'>|<fs af='lead,v,m,s,3,0,,'>
+	))
+7	((	PP	
+7.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+7.2	((	NP	
+7.2.1	a	DT	<fs af='a,n,m,s,3,0,,'>|<fs af='a,det,m,s,3,0,,'>
+7.2.2	speedy	JJ	<fs af='speedy,adj,m,s,3,0,,'>
+7.2.3	sowing	NN	<fs af='sow,v,m,s,3,0,,' aspect='PROG'>
+	))
+	))
+8	((	PP	
+8.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+8.2	((	NP	
+8.2.1	Khareef	NNP	
+8.2.2	crops	NNS	<fs af='crop,n,m,p,3,0,,'>|<fs af='crop,v,m,s,3,0,,' tense='PRES'>
+8.2.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	
+1.1	At	IN	<fs af='at,p,m,s,3,0,,'>|<fs af='at,n,m,p,3,0,,'>|<fs af='at,n,m,s,3,0,,'>|<fs af='at,p,m,s,3,0,,'>
+1.2	((	NP	
+1.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+1.2.2	same	JJ	<fs af='same,P,m,s,3,0,,'>|<fs af='same,adj,m,s,3,0,,'>|<fs af='same,D,m,s,3,0,,'>
+1.2.3	time	NN	<fs af='time,n,m,s,3,0,,'>|<fs af='time,v,m,s,3,0,,'>
+	))
+	))
+2	((	NP	
+2.1	it	PRP	<fs af='it,P,m,s,3,0,,' case='NOM'>
+	))
+3	((	VG	
+3.1	ensures	VBZ	<fs af='ensure,v,m,s,3,0,,' tense='PRES'>
+	))
+4	((	NP	
+4.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+4.2	possibilities	NNS	<fs af='possibility,n,m,p,3,0,,'>
+	))
+5	((	PP	
+5.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+5.2	((	NP	
+5.2.1	a	DT	<fs af='a,n,m,s,3,0,,'>|<fs af='a,det,m,s,3,0,,'>
+5.2.2	good	JJ	<fs af='good,n,m,s,3,0,,'>|<fs af='good,adj,m,s,3,0,,'>
+5.2.3	crop	NN	<fs af='crop,n,m,s,3,0,,'>|<fs af='crop,v,m,s,3,0,,'>
+5.2.4	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	
+1.1	According	VBG	<fs af='according,adj,m,s,3,0,,'>|<fs af='accord,v,m,s,3,0,,' aspect='PROG'>
+	))
+2	((	PP	
+2.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+2.2	((	NP	
+2.2.1	ICAR	NNP	
+2.2.2	's	POS	
+	))
+	))
+3	((	NP	
+3.1	Chief	NNP	<fs af='chief,n,m,s,3,0,,'>|<fs af='chief,adj,m,s,3,0,,'>|<fs af='chief,D,m,s,3,0,,'>
+3.2	Director	NNP	<fs af='director,n,m,s,3,0,,'>
+3.3	Mangla	NNP	
+3.4	Roy	NNP	
+3.5	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+4	((	NP	
+4.1	Sunday	NNP	<fs af='sunday,n,m,s,3,0,,'>
+4.2	's	POS	
+	))
+5	((	NP	
+5.1	rain	NN	<fs af='rain,n,m,s,3,0,,'>|<fs af='rain,v,m,s,3,0,,'>
+	))
+6	((	VG	
+6.1	will	MD	<fs af='will,n,m,s,3,0,,'>|<fs af='will,v,m,s,3,0,,'>|<fs af='will,v,m,s,3,0,,' tense='PRES'>
+6.2	spring	VB	<fs af='spring,n,m,s,3,0,,'>|<fs af='spring,v,m,s,3,0,,'>
+	))
+7	((	NP	
+7.1	a	DT	<fs af='a,n,m,s,3,0,,'>|<fs af='a,det,m,s,3,0,,'>
+7.2	new	JJ	<fs af='new,n,m,s,3,0,,'>|<fs af='new,adj,m,s,3,0,,'>
+7.3	life	NN	<fs af='life,n,m,s,3,0,,'>
+	))
+8	((	PP	
+8.1	into	IN	<fs af='into,p,m,s,3,0,,'>
+8.2	((	NP	
+8.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+8.2.2	entire	JJ	<fs af='entire,n,m,s,3,0,,'>|<fs af='entire,adj,m,s,3,0,,'>
+8.2.3	sowing	NN	<fs af='sow,v,m,s,3,0,,' aspect='PROG'>
+8.2.4	process	NN	<fs af='process,n,m,s,3,0,,'>|<fs af='process,v,m,s,3,0,,'>
+8.2.5	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	
+1.1	According	VBG	<fs af='according,adj,m,s,3,0,,'>|<fs af='accord,v,m,s,3,0,,' aspect='PROG'>
+	))
+2	((	PP	
+2.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+2.2	((	NP	
+2.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+2.2.2	weather	NN	<fs af='weather,n,m,s,3,0,,'>|<fs af='weather,adj,m,s,3,0,,'>|<fs af='weather,v,m,s,3,0,,'>
+2.2.3	department	NN	<fs af='department,n,m,s,3,0,,'>
+2.2.4	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+	))
+3	((	PP	
+3.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+3.2	((	NP	
+3.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+3.2.2	past	JJ	<fs af='past,p,m,s,3,0,,'>|<fs af='past,n,m,s,3,0,,'>|<fs af='past,adj,m,s,3,0,,'>|<fs af='past,D,m,s,3,0,,'>|<fs af='past,p,m,s,3,0,,'>|<fs af='past,v,m,s,3,0,,'>
+3.2.3	wenty	JJ	
+3.2.4	fours	NN	<fs af='four,n,m,p,3,0,,'>
+3.2.5	hours	NNS	<fs af='hour,n,m,p,3,0,,'>|<fs af='hours,n,m,p,3,0,,'>
+3.2.6	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+	))
+4	((	NP	
+4.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+4.2	monsson	NN	
+	))
+5	((	VG	
+5.1	has	VBZ	<fs af='have,v,m,s,3,0,,' tense='PRES'>
+5.2	been	VBN	<fs af='be,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+6	((	ADJP	
+6.1	active	JJ	<fs af='active,n,m,s,3,0,,'>|<fs af='active,adj,m,s,3,0,,'>
+	))
+7	((	PP	
+7.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+7.2	((	NP	
+7.2.1	many	JJ	<fs af='many,det,m,s,3,0,,'>|<fs af='many,P,m,p,3,0,,'>
+7.2.2	parts	NNS	<fs af='part,n,m,p,3,0,,'>|<fs af='parts,n,m,s,3,0,,'>|<fs af='part,v,m,s,3,0,,' tense='PRES'>
+	))
+	))
+8	((	PP	
+8.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+8.2	((	NP	
+8.2.1	Western	NNP	<fs af='western,adj,m,s,3,0,,'>
+	))
+	))
+9	((	XP	
+9.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+10	((	NP	
+10.1	Eastern	NNP	<fs af='eastern,adj,m,s,3,0,,'>
+10.2	Uttar	NNP	
+10.3	Pradesh	NNP	
+10.4	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+11	((	NP	
+11.1	Himachal	NNP	
+11.2	Pradesh	NNP	
+11.3	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+12	((	NP	
+12.1	Uttaranchal	NNP	
+12.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+13	((	NP	
+13.1	Western	NNP	<fs af='western,adj,m,s,3,0,,'>
+13.2	Madhya	NNP	
+13.3	Pradesh	NNP	
+	))
+14	((	XP	
+14.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+15	((	NP	
+15.1	Rajasthan	NNP	
+15.2	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	It	PRP	<fs af='it,P,m,s,3,0,,' case='NOM'>
+	))
+2	((	VG	
+2.1	has	VBZ	<fs af='have,v,m,s,3,0,,' tense='PRES'>
+2.2	rained	VBN	<fs af='rain,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='rain,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+3	((	PP	
+3.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+3.2	((	NP	
+3.2.1	Western	NNP	<fs af='western,adj,m,s,3,0,,'>
+3.2.2	Uttar	NNP	
+3.2.3	Pradesh	NNP	
+3.2.4	's	POS	
+	))
+	))
+4	((	NP	
+4.1	Agra	NNP	
+4.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+5	((	NP	
+5.1	Bareli	NNP	
+	))
+6	((	XP	
+6.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+7	((	NP	
+7.1	nearby	JJ	<fs af='nearby,adj,m,s,3,0,,'>|<fs af='nearby,D,m,s,3,0,,'>
+7.2	areas	NNS	<fs af='area,n,m,p,3,0,,'>
+7.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	ADVP	
+1.1	Elsewhere	RB	<fs af='elsewhere,D,m,s,3,0,,'>
+1.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+2	((	NP	
+2.1	monsoon	NN	<fs af='monsoon,n,m,s,3,0,,'>
+	))
+3	((	VG	
+3.1	has	VBZ	<fs af='have,v,m,s,3,0,,' tense='PRES'>
+3.2	knocked	VBN	<fs af='knock,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='knock,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+4	((	PP	
+4.1	on	IN	<fs af='on,p,m,s,3,0,,'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+4.2	((	NP	
+4.2.1	Uttaranchal	NNP	
+4.2.2	's	POS	
+	))
+	))
+5	((	NP	
+5.1	door	NN	<fs af='door,n,m,s,3,0,,'>|<fs af='door,adj,m,s,3,0,,'>
+5.2	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	The	DT	<fs af='the,det,m,s,3,0,,'>
+1.2	monsson	NN	
+1.3	winds	NNS	<fs af='wind,v,m,s,3,0,,' tense='PRES'>
+	))
+2	((	VG	
+2.1	have	VBP	<fs af='have,v,m,s,3,0,,'>
+2.2	blown	VBN	<fs af='blow,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+3	((	PP	
+3.1	towards	IN	<fs af='towards,p,m,s,3,0,,'>
+3.2	((	NP	
+3.2.1	Rajsthan	NNP	
+	))
+	))
+4	((	ADVP	
+4.1	too	RB	<fs af='too,D,m,s,3,0,,'>
+	))
+5	((	XP	
+5.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+6	((	NP	
+6.1	there	EX	<fs af='there,adj,m,s,3,0,,'>|<fs af='there,D,m,s,3,0,,'>|<fs af='there,P,m,s,3,0,,'>
+	))
+7	((	VG	
+7.1	has	VBZ	<fs af='have,v,m,s,3,0,,' tense='PRES'>
+7.2	been	VBN	<fs af='be,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+8	((	NP	
+8.1	news	NN	<fs af='new,n,m,p,3,0,,'>|<fs af='news,n,m,s,3,0,,'>
+	))
+9	((	PP	
+9.1	of	IN	<fs af='of,p,m,s,3,0,,'>
+9.2	((	NP	
+9.2.1	rainfall	NN	<fs af='rainfall,n,m,s,3,0,,'>
+	))
+	))
+10	((	PP	
+10.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+10.2	((	NP	
+10.2.1	Kota	NNP	
+10.2.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+	))
+11	((	ADVP	
+11.1	where	WRB	<fs af='where,Conj,m,s,3,0,,'>|<fs af='where,P,m,s,3,0,,'>|<fs af='where,p,m,s,3,0,,'>
+	))
+12	((	NP	
+12.1	usually	RB	<fs af='usually,D,m,s,3,0,,'>
+12.2	monsoon	NN	<fs af='monsoon,n,m,s,3,0,,'>
+	))
+13	((	VG	
+13.1	arrives	VBZ	<fs af='arrive,v,m,s,3,0,,' tense='PRES'>
+	))
+14	((	ADVP	
+14.1	late	RB	<fs af='late,adj,m,s,3,0,,'>|<fs af='late,D,m,s,3,0,,'>
+14.2	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	It	PRP	<fs af='it,P,m,s,3,0,,' case='NOM'>
+	))
+2	((	VG	
+2.1	is	VBZ	<fs af='be,v,m,s,3,0,,' tense='PRES'>
+2.2	raining	VBG	<fs af='rain,v,m,s,3,0,,' aspect='PROG'>
+	))
+3	((	PP	
+3.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+3.2	((	NP	
+3.2.1	Ahmedabad	NNP	
+3.2.2	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+3.2.3	Gwalior	NNP	
+	))
+	))
+4	((	ADVP	
+4.1	too	RB	<fs af='too,D,m,s,3,0,,'>
+4.2	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	
+1.1	In	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+1.2	((	NP	
+1.2.1	north	NN	<fs af='north,n,m,s,3,0,,'>|<fs af='north,adj,m,s,3,0,,'>|<fs af='north,D,m,s,3,0,,'>
+1.2.2	india	NN	
+1.2.3	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+	))
+2	((	PP	
+2.1	on	IN	<fs af='on,p,m,s,3,0,,'>|<fs af='on,n,m,s,3,0,,'>|<fs af='on,adj,m,s,3,0,,'>|<fs af='on,D,m,s,3,0,,'>|<fs af='on,p,m,s,3,0,,'>
+2.2	((	NP	
+2.2.1	Sunday	NNP	<fs af='sunday,n,m,s,3,0,,'>
+2.2.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+	))
+3	((	NP	
+3.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+3.2	highest	JJS	<fs af='high,adj,m,s,3,0,,' degree='SUPER'>
+3.3	rainfall	NN	<fs af='rainfall,n,m,s,3,0,,'>
+	))
+4	((	VG	
+4.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+4.2	recorded	VBN	<fs af='record,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='record,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+5	((	PP	
+5.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+5.2	((	NP	
+5.2.1	Chandigarh	NNP	
+	))
+	))
+6	((	XP	
+6.1	(	(	
+	))
+7	((	NP	
+7.1	103mm	NNP	
+	))
+8	((	XP	
+8.1	)	)	
+8.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+9	((	SBAR	
+9.1	whereas	IN	<fs af='whereas,Conj,m,s,3,0,,'>
+	))
+10	((	PP	
+10.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+10.2	((	NP	
+10.2.1	Haryana	NNP	
+10.2.2	's	POS	
+	))
+	))
+11	((	NP	
+11.1	Ambala	NNP	
+11.2	38.3	CD	
+11.3	mm	NN	
+11.4	rainfall	NN	<fs af='rainfall,n,m,s,3,0,,'>
+	))
+12	((	VG	
+12.1	was	VBD	<fs af='be,v,m,s,1,0,,' tense='PAST' v_form='STR'>|<fs af='be,v,m,s,3,0,,' tense='PAST' v_form='STR'>
+12.2	recorded	VBN	<fs af='record,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='record,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+12.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	
+1.1	In	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+1.2	((	NP	
+1.2.1	Karnal	NNP	
+	))
+	))
+2	((	XP	
+2.1	(	(	
+	))
+3	((	NP	
+3.1	49.4	CD	
+3.2	mm	CD	
+	))
+4	((	XP	
+4.1	)	)	
+	))
+5	((	ADVP	
+5.1	too	RB	<fs af='too,D,m,s,3,0,,'>
+5.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+6	((	NP	
+6.1	it	PRP	<fs af='it,P,m,s,3,0,,' case='NOM'>
+	))
+7	((	VG	
+7.1	rained	VBD	<fs af='rain,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='rain,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+8	((	ADVP	
+8.1	heavily	RB	<fs af='heavily,D,m,s,3,0,,'>
+8.2	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	
+1.1	In	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+1.2	((	NP	
+1.2.1	Punjab	NNP	
+1.2.2	's	POS	
+	))
+	))
+2	((	NP	
+2.1	Ludhiana	NNP	
+	))
+3	((	NP	
+3.1	it	PRP	<fs af='it,P,m,s,3,0,,' case='NOM'>
+	))
+4	((	VG	
+4.1	rained	VBD	<fs af='rain,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='rain,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+5	((	NP	
+5.1	15.3	CD	
+5.2	mm	NN	
+5.3	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+6	((	SBAR	
+6.1	while	IN	<fs af='while,Conj,m,s,3,0,,'>|<fs af='while,n,m,s,3,0,,'>
+	))
+7	((	PP	
+7.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+7.2	((	NP	
+7.2.1	Patial	NNP	
+7.2.2	65.4	NNP	
+7.2.3	mm	NN	
+7.2.4	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	PP	
+1.1	In	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+1.2	((	NP	
+1.2.1	Shimla	NNP	
+	))
+	))
+2	((	ADVP	
+2.1	too	RB	<fs af='too,D,m,s,3,0,,'>
+2.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+3	((	NP	
+3.1	19.1	NNP	
+	))
+4	((	VG	
+4.1	mm	VBP	
+	))
+5	((	XP	
+5.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+6	((	PP	
+6.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+6.2	((	NP	
+6.2.1	Sundernagar	NNP	
+	))
+	))
+7	((	NP	
+7.1	it	PRP	<fs af='it,P,m,s,3,0,,' case='NOM'>
+	))
+8	((	VG	
+8.1	rained	VBD	<fs af='rain,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='rain,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+9	((	NP	
+9.1	31.4	JJ	
+9.2	mm	NN	
+9.3	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	It	PRP	<fs af='it,P,m,s,3,0,,' case='NOM'>
+	))
+2	((	VG	
+2.1	is	VBZ	<fs af='be,v,m,s,3,0,,' tense='PRES'>
+2.2	raining	VBG	<fs af='rain,v,m,s,3,0,,' aspect='PROG'>
+	))
+3	((	ADVP	
+3.1	heavily	RB	<fs af='heavily,D,m,s,3,0,,'>
+	))
+4	((	PP	
+4.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+4.2	((	NP	
+4.2.1	Mumbai	NNP	
+	))
+	))
+5	((	XP	
+5.1	and	CC	<fs af='and,Conj,m,s,3,0,,'>
+	))
+6	((	VG	
+6.1	is	VBZ	<fs af='be,v,m,s,3,0,,' tense='PRES'>
+6.2	expected	VBN	<fs af='expect,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='expect,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+	))
+7	((	VG	
+7.1	to	TO	<fs af='to,p,m,s,3,0,,'>|<fs af='to,D,m,s,3,0,,'>|<fs af='to,p,m,s,3,0,,'>|<fs af='to,v,m,s,3,0,,'>
+7.2	continue	VB	<fs af='continue,v,m,s,3,0,,'>
+	))
+8	((	PP	
+8.1	for	IN	<fs af='for,p,m,s,3,0,,'>|<fs af='for,Comp,m,s,3,0,,'>
+8.2	((	NP	
+8.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+8.2.2	next	JJ	<fs af='next,adj,m,s,3,0,,'>|<fs af='next,D,m,s,3,0,,'>
+8.2.3	few	JJ	<fs af='few,det,m,s,3,0,,'>|<fs af='few,adj,m,s,3,0,,'>
+8.2.4	days	NNS	<fs af='day,n,m,p,3,0,,'>|<fs af='days,D,m,s,3,0,,'>
+8.2.5	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	ADVP	
+1.1	Elsewhere	RB	<fs af='elsewhere,D,m,s,3,0,,'>
+1.2	,	SYM	<fs af='comma,punc,n,s,3,0,,'>
+	))
+2	((	PP	
+2.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+2.2	((	NP	
+2.2.1	the	DT	<fs af='the,det,m,s,3,0,,'>
+2.2.2	country	NN	<fs af='country,n,m,s,3,0,,'>
+	))
+	))
+3	((	NP	
+3.1	12	CD	
+3.2	people	NNS	<fs af='people,n,m,p,3,0,,'>|<fs af='people,v,m,p,3,0,,'>
+	))
+4	((	VG	
+4.1	lost	VBD	<fs af='lost,adj,m,s,3,0,,'>|<fs af='lose,v,m,s,3,0,,' tense='PAST' v_form='STR'>|<fs af='lose,v,m,s,3,0,,' tense='PPART' v_form='STR'>
+	))
+5	((	NP	
+5.1	their	PRP$	<fs af='he,det,m,p,3,0,,' case='GEN'>
+5.2	lives	NNS	<fs af='life,n,m,p,3,0,,'>|<fs af='live,v,m,s,3,0,,' tense='PRES'>
+	))
+6	((	PP	
+6.1	in	IN	<fs af='in,p,m,s,3,0,,'>|<fs af='in,D,m,s,3,0,,'>|<fs af='in,p,m,s,3,0,,'>
+6.2	((	NP	
+6.2.1	rain	NN	<fs af='rain,n,m,s,3,0,,'>|<fs af='rain,v,m,s,3,0,,'>
+6.2.2	related	VBN	<fs af='related,adj,m,s,3,0,,'>|<fs af='relate,v,m,s,3,0,,' tense='PAST' v_form='WK'>|<fs af='relate,v,m,s,3,0,,' tense='PPART' v_form='WK'>
+6.2.3	incidents	NNS	<fs af='incident,n,m,p,3,0,,'>
+6.2.4	.	SYM	<fs af='.,punc,n,s,3,0,,'>
+	))
+	))
+	))
+</Sentence>
+
+</document>
